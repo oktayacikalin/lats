@@ -1,0 +1,55 @@
+
+[filenumbers]
+0=302
+1=533
+2=40
+3=955
+4=371
+5=1377
+6=107
+7=975
+8=1
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+
+[executer]
+RunInTerminal=false
+
+[Project DBase]
+ShowLocals=true
+
+[filelist]
+0=/home/spare/oktay/Projekte/lats/src/callbacks.h
+1=/home/spare/oktay/Projekte/lats/src/callbacks.c
+2=/home/spare/oktay/Projekte/lats/src/main.c
+3=/home/spare/oktay/Projekte/lats/src/imageview.c
+4=/home/spare/oktay/Projekte/lats/src/tasks.c
+5=/home/spare/oktay/Projekte/lats/src/imagelist.c
+6=/home/spare/oktay/Projekte/lats/src/toolbars.c
+7=/home/spare/oktay/Projekte/lats/src/settings.c
+8=/home/spare/oktay/Projekte/lats/src/settings.h
+
+[replace_text]
+0=ta:
+1=gnome_appbar_has_progress
+2=GNOME_APPBAR_HAS_PROGRESS ( appbar2 )
+3=GNOME_APPBAR_HAS_PROGRESS ( 
+
+[find_text]
+0=tasks:
+1=show color...
+2=big
+3=trans
+4=multifile
+5=from_file
+6=filename
+7=set_cursor_for_widget

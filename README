@@ -1,0 +1,90 @@
+
+  Hi folks! :)
+
+This is my first try in programming something >>big<< in c 
+and this is my first try in programming in c itself :)
+.. so please don't kick me for my messy style of writing ..
+
+If you should have any suggestions - please mail me!
+
+what you need:
+
+- gtk 1.2 ( I use libgtk+1.2-1.2.10-25mdk )
+- glib 1.2 ( I use libglib1.2-1.2.10-4mdk )
+- gnome-vfs ( I use gnome-vfs-1.0.4-4mdk )
+- gdk-pixbuf ( I use libgdk_pixbuf2.0_0-2.0.0-1mdk )
+
+So you should have gnome installed :)
+
+Should you have the time to test this within a minimal
+installation of your distro - please report me, so I can
+note this down - thnx!
+
+Greetings,
+Oktay.
+
+-- 2002-04-12 01:58 AM
+
+
+
+  Hey :)
+
+This evening the settings-dialog should be finished and
+you also get some new features :)
+
+- pattern-view:    like tiled-view in nautilus etc.
+                   the fade-out feature for background-
+                   coloration works here, too!
+
+- thumbnail usage: count the usage of your thumbnails
+
+now I using gentoo-linux... does someone know, why
+this archive won't compile anymore if I do a 
+"make distclean" ? or what I have to do that this
+function works as expected? it worked with mandrake-
+linux...??!
+
+Greetz,
+Oktay.
+
+-- 2002-06-07 07:09 PM
+
+
+
+  Good morning :)
+
+Now this is a bigger release as expected.. it
+took me quiet a while until I finished this one
+so far as it is now. There where many bugs and
+many things that caused me headaches... but
+now this one should work stable enough for a
+release.
+
+Please send me an email if you have a problem
+with my progi ! There are bugs left, but they
+won't come out that fast :)
+
+So, go out and brake my program :) 
+
+What's new? You can now load Adobe Acrobat
+Reader and PostScript files, too! Even if they
+have more than one page! Hmm... but getting
+more than one page only works with having
+acroread around... please tell me, how to
+get a whole page out of a multiple page
+postscript-file.. converting postscript to
+pdf and back can't be a solution..
+Next thing is, you can now load and save
+your settings! Thumbnail-usage-counter is not
+ready, yet.. :)
+Also you can now drag the image in the view-area
+around if its too big.. so you don't have to
+fiddle around with the scrollbars anymore.. :)
+In the end it's got more stable and faster...
+
+That's it for now...
+
+bye..
+
+-- 2002-07-16 02:44 AM
+

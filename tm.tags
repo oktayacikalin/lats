@@ -1,0 +1,975 @@
+/home/oktay/Anjuta/Projects/lats/acconfig.hÌ262144Ñ1017048340
+ENABLE_NLSÌ65536É1Ê1Ë0
+HAVE_CATGETSÌ65536É2Ê1Ë18
+HAVE_GETTEXTÌ65536É3Ê1Ë38
+HAVE_LC_MESSAGESÌ65536É4Ê1Ë58
+HAVE_LIBSMÌ65536É6Ê1Ë101
+HAVE_STPCPYÌ65536É5Ê1Ë82
+PACKAGE_DATA_DIRÌ65536É9Ê1Ë168
+PACKAGE_DOC_DIRÌ65536É8Ê1Ë145
+PACKAGE_HELP_DIRÌ65536É11Ê1Ë219
+PACKAGE_LOCALE_DIRÌ65536É7Ê1Ë119
+PACKAGE_MENU_DIRÌ65536É12Ê1Ë243
+PACKAGE_PIXMAPS_DIRÌ65536É10Ê1Ë192
+PACKAGE_SOURCE_DIRÌ65536É13Ê1Ë267
+/home/oktay/Anjuta/Projects/lats/intl/gettext.hÌ262144Ñ1017048340
+MO_REVISION_NUMBERÌ65536É32Ê1Ë1154
+UINT_MAXÌ65536É52Ê1Ë1869
+UINT_MAX_32_BITSÌ65536É41Ê1Ë1508
+UINT_MAX_32_BITSÌ65536É43Ê1Ë1552
+_GETTEXT_HÌ65536É19Ê1Ë858
+_MAGICÌ65536É28Ê1Ë1022
+_MAGIC_SWAPPEDÌ65536É29Ê1Ë1048
+hash_tab_offsetÌ64É88Ê1Ë2851Îmo_file_headerÏnls_uint32
+hash_tab_sizeÌ64É86Ê1Ë2783Îmo_file_headerÏnls_uint32
+lengthÌ64É94Ê1Ë2943Îstring_descÏnls_uint32
+magicÌ64É76Ê1Ë2404Îmo_file_headerÏnls_uint32
+mo_file_headerÌ2048É73Ê1Ë2375
+nls_uint32Ì4096É56Ê1Ë1945
+nls_uint32Ì4096É59Ê1Ë2015Ïshort
+nls_uint32Ì4096É62Ê1Ë2093Ïlong
+nstringsÌ64É80Ê1Ë2534Îmo_file_headerÏnls_uint32
+offsetÌ64É96Ê1Ë2999Îstring_descÏnls_uint32
+orig_tab_offsetÌ64É82Ê1Ë2622Îmo_file_headerÏnls_uint32
+revisionÌ64É78Ê1Ë2473Îmo_file_headerÏnls_uint32
+string_descÌ2048É91Ê1Ë2904
+trans_tab_offsetÌ64É84Ê1Ë2720Îmo_file_headerÏnls_uint32
+/home/oktay/Anjuta/Projects/lats/intl/gettextP.hÌ262144Ñ1017048340
+PARAMSÌ131072Í(args)É40Ê1Ë1191
+PARAMSÌ131072Í(args)É42Ê1Ë1226
+SWAPÌ131072Í(i)É63Ê1Ë1634
+SWAPÌ16Í(i)É66Ê1Ë1723Ïnls_uint32
+WÌ131072Í(flag, data)É57Ê1Ë1534
+ZEROÌ65536É148Ê1Ë3665
+ZEROÌ65536É150Ê1Ë3687
+_GETTEXTP_HÌ65536É20Ê1Ë899
+__bind_textdomain_codesetÌ1024Í((const char *__domainname, const char *__codeset))É212Ê1Ë6154Ïchar
+__bindtextdomainÌ1024Í((const char *__domainname, const char *__dirname))É210Ê1Ë6044Ïchar
+__builtin_expectÌ131072Í(expr, val)É53Ê1Ë1472
+__dcgettextÌ1024Í((const char *__domainname, const char *__msgid, int __category))É195Ê1Ë5284Ïchar
+__dcigettextÌ1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, int __plural, unsigned long int __n, int __category))É205Ê1Ë5891Ïchar
+__dcngettextÌ1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int __n, int __category))É202Ê1Ë5687Ïchar
+__dgettextÌ1024Í((const char *__domainname, const char *__msgid))É193Ê1Ë5196Ïchar
+__dngettextÌ1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int n))É199Ê1Ë5546Ïchar
+__gettextÌ1024Í((const char *__msgid))É192Ê1Ë5082Ïchar
+__gettextparseÌ1024Í((void *arg))É242Ê1Ë7406Ïint
+__ngettextÌ1024Í((const char *__msgid1, const char *__msgid2, unsigned long int __n))É197Ê1Ë5406Ïchar
+__textdomainÌ1024Í((const char *__domainname))É209Ê1Ë5916Ïchar
+_nl_msg_cat_cntrÌ32768É167Ê0Ë4172Ïint
+argsÌ64É106Ê1Ë2809Îexpression::<anonymous>Ïexpression
+bind_textdomain_codeset__Ì1024Í((const char *__domainname, const char *__codeset))É235Ê1Ë7265Ïchar
+bindingÌ2048É155Ê1Ë3858
+bindtextdomain__Ì1024Í((const char *__domainname, const char *__dirname))É233Ê1Ë7155Ïchar
+codesetÌ64É160Ê1Ë3967ÎbindingÏchar
+codeset_cntrÌ64É131Ê1Ë3353Îloaded_domainÏint
+codeset_cntrÌ64É159Ê1Ë3901ÎbindingÏint
+convÌ64É133Ê1Ë3386Îloaded_domainÏ__gconv_t
+convÌ64É136Ê1Ë3426Îloaded_domainÏiconv_t
+conv_tabÌ64É139Ê1Ë3457Îloaded_domainÏchar
+cpÌ64É114Ê1Ë3016Îparse_argsÏchar
+dataÌ64É122Ê1Ë3144Îloaded_domainÏchar
+dcgettext__Ì1024Í((const char *__domainname, const char *__msgid, int __category))É218Ê1Ë6393Ïchar
+dcigettext__Ì1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, int __plural, unsigned long int __n, int __category))É228Ê1Ë7002Ïchar
+dcngettext__Ì1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int __n, int __category))É225Ê1Ë6798Ïchar
+dgettext__Ì1024Í((const char *__domainname, const char *__msgid))É216Ê1Ë6305Ïchar
+dirnameÌ64É158Ê1Ë3884ÎbindingÏchar
+divideÌ4É88Ê1Ë2205Îexpression::operator
+dngettext__Ì1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int __n))É222Ê1Ë6655Ïchar
+domainnameÌ64É161Ê1Ë3984ÎbindingÏchar
+equalÌ4É96Ê1Ë2492Îexpression::operator
+expressionÌ2048É76Ê1Ë1916
+gettext__Ì1024Í((const char *__msgid))É215Ê1Ë6191Ïchar
+gettextparse__Ì1024Í((void *arg))É246Ê1Ë7549Ïint
+greater_or_equalÌ4É95Ê1Ë2450Îexpression::operator
+greater_thanÌ4É93Ê1Ë2373Îexpression::operator
+hash_sizeÌ64É129Ê1Ë3305Îloaded_domainÏnls_uint32
+hash_tabÌ64É130Ê1Ë3329Îloaded_domainÏnls_uint32
+internal_functionÌ65536É47Ê1Ë1294
+landÌ4É98Ê1Ë2590Îexpression::operator
+less_or_equalÌ4É94Ê1Ë2411Îexpression::operator
+less_thanÌ4É92Ê1Ë2337Îexpression::operator
+lnotÌ4É85Ê1Ë2109Îexpression::operator
+loaded_domainÌ2048É120Ê1Ë3142
+lorÌ4É99Ê1Ë2622Îexpression::operator
+minusÌ4É91Ê1Ë2304Îexpression::operator
+mmap_sizeÌ64É124Ê1Ë3180Îloaded_domainÏsize_t
+moduleÌ4É89Ê1Ë2236Îexpression::operator
+multÌ4É87Ê1Ë2170Îexpression::operator
+must_swapÌ64É125Ê1Ë3200Îloaded_domainÏint
+nargsÌ64É78Ê1Ë1918ÎexpressionÏint
+nextÌ64É157Ê1Ë3860ÎbindingÏbinding
+ngettext__Ì1024Í((const char *__msgid1, const char *__msgid2, unsigned long int __n))É220Ê1Ë6515Ïchar
+not_equalÌ4É97Ê1Ë2538Îexpression::operator
+npluralsÌ64É142Ê1Ë3506Îloaded_domainÏlong
+nstringsÌ64É126Ê1Ë3217Îloaded_domainÏnls_uint32
+numÌ4É83Ê1Ë2047Îexpression::operator
+numÌ64É105Ê1Ë2751Îexpression::<anonymous>Ïlong
+operationÌ64É102Ê1Ë2724ÎexpressionÏoperator
+operatorÌ2É79Ê1Ë1977Îexpression
+orig_tabÌ64É127Ê1Ë3240Îloaded_domainÏstring_desc
+parse_argsÌ2048É112Ê1Ë3014
+pluralÌ64É141Ê1Ë3477Îloaded_domainÏexpression
+plusÌ4É90Ê1Ë2275Îexpression::operator
+qmopÌ4É101Ê1Ë2682Îexpression::operator
+resÌ64É115Ê1Ë3034Îparse_argsÏexpression
+textdomain__Ì1024Í((const char *__domainname))É232Ê1Ë7027Ïchar
+trans_tabÌ64É128Ê1Ë3272Îloaded_domainÏstring_desc
+use_mmapÌ64É123Ê1Ë3164Îloaded_domainÏint
+valÌ64É107Ê1Ë2871Îexpression
+varÌ4É82Ê1Ë2011Îexpression::operator
+/home/oktay/Anjuta/Projects/lats/intl/hash-string.hÌ262144Ñ1017048340
+HASHWORDBITSÌ65536É29Ê1Ë1056
+PARAMSÌ131072Í(Args)É22Ê1Ë905
+PARAMSÌ131072Í(Args)É24Ê1Ë940
+hash_stringÌ1024Í((const char *__str_param))É35Ê1Ë1269Ïlong
+hash_stringÌ16Í(str_param)É38Ê1Ë1427Ïlong
+/home/oktay/Anjuta/Projects/lats/intl/libgettext.hÌ262144Ñ1017048340
+_LIBGETTEXT_HÌ65536É19Ê1Ë855
+bind_textdomain_codesetÌ131072Í(Domainname, Codeset)É40Ê1Ë1629
+bindtextdomainÌ131072Í(Domainname, Dirname)É39Ê1Ë1563
+dcgettextÌ131072Í(Domainname, Msgid, Category)É31Ê1Ë1132
+dcngettextÌ131072Í(Domainname, Msgid1, Msgid2, N, Category)É36Ê1Ë1389
+dgettextÌ131072Í(Domainname, Msgid)É30Ê1Ë1087
+dngettextÌ131072Í(Domainname, Msgid1, Msgid2, N)É34Ê1Ë1282
+gettextÌ131072Í(Msgid)É29Ê1Ë1055
+gettext_noopÌ131072Í(Str)É46Ê1Ë1845
+ngettextÌ131072Í(Msgid1, Msgid2, N)É32Ê1Ë1188
+textdomainÌ131072Í(Domainname)É38Ê1Ë1507
+/home/oktay/Anjuta/Projects/lats/intl/libgnuintl.hÌ262144Ñ1017048340
+LC_MESSAGESÌ65536É30Ê1Ë1350
+PARAMSÌ131072Í(args)É46Ê1Ë1737
+PARAMSÌ131072Í(args)É48Ê1Ë1772
+_LIBINTL_HÌ65536É19Ê1Ë836
+__USE_GNU_GETTEXTÌ65536É35Ê1Ë1482
+bind_textdomain_codesetÌ1024Í((const char *__domainname, const char *__codeset))É100Ê1Ë3752Ïchar
+bindtextdomainÌ1024Í((const char *__domainname, const char *__dirname))É95Ê1Ë3528Ïchar
+dcgettextÌ1024Í((const char *__domainname, const char *__msgid, int __category))É67Ê1Ë2411Ïchar
+dcngettextÌ1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int __n, int __category))É83Ê1Ë3079Ïchar
+dgettextÌ1024Í((const char *__domainname, const char *__msgid))É63Ê1Ë2160Ïchar
+dgettextÌ131072Í(domainname, msgid)É111Ê1Ë3989
+dngettextÌ1024Í((const char *__domainname, const char *__msgid1, const char *__msgid2, unsigned long int __n))É78Ê1Ë2805Ïchar
+dngettextÌ131072Í(domainname, msgid1, msgid2, n)É117Ê1Ë4172
+gettextÌ65536É40Ê1Ë1636
+gettextÌ65536É41Ê1Ë1652
+gettextÌ1024Í((const char *__msgid))É59Ê1Ë2012Ïchar
+gettextÌ131072Í(msgid)É108Ê1Ë3925
+ngettextÌ1024Í((const char *__msgid1, const char *__msgid2, unsigned long int __n))É73Ê1Ë2599Ïchar
+ngettextÌ131072Í(msgid1, msgid2, n)É114Ê1Ë4084
+textdomainÌ1024Í((const char *__domainname))É91Ê1Ë3280Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/loadinfo.hÌ262144Ñ1017048340
+CEN_AUDIENCEÌ65536É56Ê1Ë1699
+CEN_REVISIONÌ65536É50Ê1Ë1556
+CEN_SPECIALÌ65536É52Ê1Ë1603
+CEN_SPECIFICÌ65536É59Ê1Ë1751
+CEN_SPONSORÌ65536É51Ê1Ë1580
+PARAMSÌ131072Í(args)É24Ê1Ë947
+PARAMSÌ131072Í(args)É26Ê1Ë982
+PATH_SEPARATORÌ65536É43Ê1Ë1435
+PATH_SEPARATORÌ65536É46Ê1Ë1482
+TERRITORYÌ65536É55Ê1Ë1677
+XPG_CODESETÌ65536É54Ê1Ë1653
+XPG_MODIFIERÌ65536É57Ê1Ë1724
+XPG_NORM_CODESETÌ65536É53Ê1Ë1626
+XPG_SPECIFICÌ65536É60Ê1Ë1824
+_LOADINFO_HÌ65536É20Ê1Ë895
+__builtin_expectÌ131072Í(expr, val)É37Ê1Ë1228
+_nl_expand_aliasÌ1024Í((const char *name))É93Ê1Ë2806Ïchar
+_nl_explode_nameÌ1024Í((char *name, const char **language, const char **modifier, const char **territory, const char **codeset, const char **normalized_codeset, const char **special, const char **sponsor, const char **revision))É97Ê1Ë3233Ïint
+_nl_find_languageÌ1024Í((const char *name))É106Ê1Ë3268Ïchar
+_nl_make_l10nflistÌ1024Í((struct loaded_l10nfile **l10nfile_list, const char *dirlist, size_t dirlist_len, int mask, const char *language, const char *territory, const char *codeset, const char *normalized_codeset, const char *modifier, const char *special, const char *sponsor, const char *revision, const char *filename, int do_allocate))É83Ê1Ë2756Ïloaded_l10nfile
+_nl_normalize_codesetÌ1024Í((const char *codeset, size_t name_len))É79Ê1Ë2351Ïchar
+dataÌ64É68Ê1Ë1956Îloaded_l10nfileÏvoid
+decidedÌ64É66Ê1Ë1940Îloaded_l10nfileÏint
+filenameÌ64É65Ê1Ë1916Îloaded_l10nfileÏchar
+internal_functionÌ65536É31Ê1Ë1050
+loaded_l10nfileÌ2048É63Ê1Ë1914
+nextÌ64É70Ê1Ë1977Îloaded_l10nfileÏloaded_l10nfile
+successorÌ64É71Ê1Ë2009Îloaded_l10nfileÏloaded_l10nfile
+/home/oktay/Anjuta/Projects/lats/src/support.hÌ262144Ñ1017048340
+create_imageÌ1024Í(const gchar *filename)É33Ê1Ë886ÏGdkImlibImage
+create_pixmapÌ1024Í(GtkWidget *widget, const gchar *filename, gboolean gnome_pixmap)É29Ê1Ë813ÏGtkWidget
+get_widgetÌ65536É21Ê1Ë557
+lookup_widgetÌ1024Í(GtkWidget *widget, const gchar *widget_name)É17Ê1Ë424ÏGtkWidget
+/home/oktay/Anjuta/Projects/lats/src/interface.hÌ262144Ñ1017048340
+create_MainWindowÌ1024Í(void)É5Ê1Ë61ÏGtkWidget
+create_about1Ì1024Í(void)É6Ê1Ë98ÏGtkWidget
+create_colorselectiondialog1Ì1024Í(void)É8Ê1Ë169ÏGtkWidget
+create_fullscreenwindowÌ1024Í(void)É9Ê1Ë217ÏGtkWidget
+create_prefswindowÌ1024Í(void)É7Ê1Ë131ÏGtkWidget
+/home/oktay/Anjuta/Projects/lats/src/callbacks.hÌ262144Ñ1017048340
+on_MainWindow_delete_eventÌ1024Í(GtkWidget *widget, GdkEvent *event, gpointer user_data)É65Ê1Ë2088Ïgboolean
+on_MainWindow_destroy_eventÌ1024Í(GtkWidget *widget, GdkEvent *event, gpointer user_data)É70Ê1Ë2296Ïgboolean
+on_MainWindow_key_press_eventÌ1024Í(GtkWidget *widget, GdkEventKey *event, gpointer user_data)É257Ê1Ë9409Ïgboolean
+on_MainWindow_key_release_eventÌ1024Í(GtkWidget *widget, GdkEventKey *event, gpointer user_data)É262Ê1Ë9617Ïgboolean
+on_about1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É57Ê1Ë1740Ïvoid
+on_autozoom_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É126Ê1Ë4373Ïvoid
+on_bgcolorok_button1_clickedÌ1024Í(GtkButton *button, gpointer user_data)É171Ê1Ë6020Ïvoid
+on_bgcoloruse_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É114Ê1Ë3945Ïvoid
+on_bgcolorvp_button_press_eventÌ1024Í(GtkWidget *widget, GdkEventButton *event, gpointer user_data)É175Ê1Ë6228Ïgboolean
+on_button9_clickedÌ1024Í(GtkButton *button, gpointer user_data)É79Ê1Ë2578Ïvoid
+on_clear1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É45Ê1Ë1314Ïvoid
+on_combo_entry1_activateÌ1024Í(GtkEditable *editable, gpointer user_data)É75Ê1Ë2438Ïvoid
+on_copy1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É37Ê1Ë1030Ïvoid
+on_cut1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É33Ê1Ë888Ïvoid
+on_dirlist_select_rowÌ1024Í(GtkCList *clist, gint row, gint column, GdkEvent *event, gpointer user_data)É84Ê1Ë2909Ïvoid
+on_exit0_activateÌ1024Í(GtkButton *button, gpointer user_data)É61Ê1Ë1880Ïvoid
+on_exit1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É29Ê1Ë746Ïvoid
+on_frame1radiobutton1_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É267Ê1Ë9763Ïvoid
+on_frame1radiobutton2_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É271Ê1Ë9909Ïvoid
+on_fullscreenwindow_hideÌ1024Í(GtkWidget *widget, gpointer user_data)É282Ê1Ë10259Ïvoid
+on_fullscreenwindow_showÌ1024Í(GtkWidget *widget, gpointer user_data)É286Ê1Ë10399Ïvoid
+on_homebutton_clickedÌ1024Í(GtkButton *button, gpointer user_data)É98Ê1Ë3379Ïvoid
+on_iconlist_select_iconÌ1024Í(GnomeIconList *gnomeiconlist, gint arg1, GdkEvent *event, gpointer user_data)É235Ê1Ë8511Ïvoid
+on_imagedisplay_switch_pageÌ1024Í(GtkNotebook *notebook, GtkNotebookPage *page, gint page_num, gpointer user_data)É241Ê1Ë8783Ïvoid
+on_imageiconview_size_allocateÌ1024Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É185Ê1Ë6584Ïvoid
+on_imagelist_select_rowÌ1024Í(GtkCList *clist, gint row, gint column, GdkEvent *event, gpointer user_data)É91Ê1Ë3239Ïvoid
+on_keepaspect_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É130Ê1Ë4521Ïvoid
+on_new_file1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É13Ê1Ë178Ïvoid
+on_open1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É17Ê1Ë320Ïvoid
+on_packer1_size_allocateÌ1024Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É190Ê1Ë6793Ïvoid
+on_paste1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É41Ê1Ë1172Ïvoid
+on_preferences1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É53Ê1Ë1598Ïvoid
+on_prefsimageradiobutton1_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É155Ê1Ë5442Ïvoid
+on_prefsimageradiobutton2_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É159Ê1Ë5588Ïvoid
+on_prefsimageradiobutton3_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É163Ê1Ë5734Ïvoid
+on_prefsimageradiobutton4_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É167Ê1Ë5880Ïvoid
+on_prefsimagereload_clickedÌ1024Í(GtkButton *button, gpointer user_data)É151Ê1Ë5296Ïvoid
+on_prefsmainentry1_activateÌ1024Í(GtkEditable *editable, gpointer user_data)É211Ê1Ë7519Ïvoid
+on_prefsmainentry2_activateÌ1024Í(GtkEditable *editable, gpointer user_data)É215Ê1Ë7661Ïvoid
+on_prefsmaintogglebutton1_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É181Ê1Ë6375Ïvoid
+on_prefsthumbentry1_activateÌ1024Í(GtkEditable *editable, gpointer user_data)É219Ê1Ë7803Ïvoid
+on_prefsthumbentry2_activateÌ1024Í(GtkEditable *editable, gpointer user_data)É223Ê1Ë7945Ïvoid
+on_prefsthumbradiobutton1_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É195Ê1Ë6939Ïvoid
+on_prefsthumbradiobutton2_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É199Ê1Ë7085Ïvoid
+on_prefsthumbradiobutton3_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É203Ê1Ë7231Ïvoid
+on_prefsthumbradiobutton4_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É207Ê1Ë7377Ïvoid
+on_prefsthumbradiobutton5_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É227Ê1Ë8091Ïvoid
+on_prefsthumbradiobutton6_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É231Ê1Ë8237Ïvoid
+on_properties1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É49Ê1Ë1456Ïvoid
+on_save1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É21Ê1Ë462Ïvoid
+on_save_as1_activateÌ1024Í(GtkMenuItem *menuitem, gpointer user_data)É25Ê1Ë604Ïvoid
+on_scrolledwindow6_button_press_eventÌ1024Í(GtkWidget *widget, GdkEventButton *event, gpointer user_data)É276Ê1Ë10118Ïgboolean
+on_scrolledwindow6_size_allocateÌ1024Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É134Ê1Ë4730Ïvoid
+on_scrolledwindow7_size_allocateÌ1024Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É247Ê1Ë8992Ïvoid
+on_scrolledwindow8_size_allocateÌ1024Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É252Ê1Ë9201Ïvoid
+on_vmbutton1_clickedÌ1024Í(GtkButton *button, gpointer user_data)É102Ê1Ë3519Ïvoid
+on_vmbutton2_clickedÌ1024Í(GtkButton *button, gpointer user_data)É106Ê1Ë3659Ïvoid
+on_vmbutton3_clickedÌ1024Í(GtkButton *button, gpointer user_data)É110Ê1Ë3799Ïvoid
+on_zoom100_clickedÌ1024Í(GtkButton *button, gpointer user_data)É122Ê1Ë4227Ïvoid
+on_zoom100_toggledÌ1024Í(GtkToggleButton *togglebutton, gpointer user_data)É147Ê1Ë5156Ïvoid
+on_zoomentry_changedÌ1024Í(GtkEditable *editable, gpointer user_data)É118Ê1Ë4087Ïvoid
+on_zoomm25_clickedÌ1024Í(GtkButton *button, gpointer user_data)É139Ê1Ë4870Ïvoid
+on_zoomp25_clickedÌ1024Í(GtkButton *button, gpointer user_data)É143Ê1Ë5010Ïvoid
+printdÌ1024Í( char *text )É4Ê1Ë25Ïvoid
+quit_latsÌ1024Í( void )É7Ê1Ë54Ïvoid
+refresh_screenÌ1024Í( void )É10Ê1Ë80Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/importedfuncs.hÌ262144Ñ1017048340
+text_from_sizeÌ1024Í(int size)É8Ê1Ë140Ïgchar
+text_from_timeÌ1024Í(time_t t)É10Ê1Ë174Ïgchar
+text_from_varÌ1024Í(int size)É12Ê1Ë208Ïgchar
+/home/oktay/Anjuta/Projects/lats/src/imageview.hÌ262144Ñ1017048340
+check_for_new_image_selectionÌ1024Í( char *filename )É4Ê1Ë24Ïint
+load_imageÌ1024Í( char *filename )É7Ê1Ë81Ïvoid
+redraw_bgcolorpixmapÌ1024Í( gpointer user_data )É16Ê1Ë233Ïvoid
+view_imageÌ1024Í( char *filename, gpointer user_data )É10Ê1Ë119Ïvoid
+zoom_pictureÌ1024Í( double value, gpointer user_data )É13Ê1Ë176Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/toolbars.hÌ262144Ñ1017048340
+add_vmbutton_series_to_toolbarÌ1024Í( int toolbarnum, int use_accels )É19Ê1Ë224Ïvoid
+add_zoom_buttons_to_toolbarÌ1024Í( void )É4Ê1Ë26Ïvoid
+vmbutton_disableÌ1024Í( int button )É13Ê1Ë145Ïvoid
+vmbutton_enableÌ1024Í( int button )É16Ê1Ë185Ïvoid
+vmbutton_hideÌ1024Í( int button )É7Ê1Ë71Ïvoid
+vmbutton_showÌ1024Í( int button )É10Ê1Ë108Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/colors.hÌ262144Ñ1017048340
+get_blue_from_rgb_valueÌ1024Í( double color, int range )É10Ê1Ë142Ïint
+get_check_color_aÌ1024Í( void )É19Ê1Ë352Ïint
+get_check_color_autoÌ1024Í( void )É31Ê1Ë496Ïint
+get_check_color_bÌ1024Í( void )É22Ê1Ë386Ïint
+get_check_color_out_aÌ1024Í( void )É25Ê1Ë420Ïint
+get_check_color_out_bÌ1024Í( void )É28Ê1Ë458Ïint
+get_check_color_out_cut_off_factorÌ1024Í( void )É37Ê1Ë575Ïfloat
+get_check_color_out_useÌ1024Í( void )É34Ê1Ë533Ïint
+get_green_from_rgb_valueÌ1024Í( double color, int range )É7Ê1Ë82Ïint
+get_pixel_from_loaded_imageÌ1024Í( int x, int y )É40Ê1Ë630Ïguint32
+get_red_from_rgb_valueÌ1024Í( double color, int range )É4Ê1Ë24Ïint
+scale_colorÌ1024Í( guint8 r, guint8 g, guint8 b, guint8 a, guint8 dest, guint8 fadeout )É16Ê1Ë261Ïguint32
+show_rgb_from_valueÌ1024Í( double color, int range )É13Ê1Ë202Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/imagelist.hÌ262144Ñ1017048340
+get_thumbnailÌ1024Í( char *filename, int FORCE_RELOAD )É10Ê1Ë100ÏGdkPixbuf
+isdirÌ1024Í(char *filename)É7Ê1Ë65Ïgboolean
+isimageÌ1024Í(char *filename)É4Ê1Ë29Ïgboolean
+read_dir_from_comboÌ1024Í( int FORCE_RELOAD, gpointer user_data)É13Ê1Ë159Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/pixbuf_util.hÌ262144Ñ1017048340
+pixbuf_copy_mirrorÌ1024Í(GdkPixbuf *src, gint mirror, gint flip)É8Ê1Ë165ÏGdkPixbuf
+pixbuf_copy_rotate_90Ì1024Í(GdkPixbuf *src, gint counter_clockwise)É7Ê1Ë91ÏGdkPixbuf
+pixbuf_to_file_as_pngÌ1024Í(GdkPixbuf *pixbuf, char *filename)É5Ê1Ë22Ïgboolean
+/home/oktay/Anjuta/Projects/lats/intl/bindtextdom.cÌ262144Ñ1017048340
+BINDTEXTDOMAINÌ65536É73Ê1Ë2424
+BINDTEXTDOMAINÌ65536É79Ê1Ë2591
+BINDTEXTDOMAINÌ16Í(domainname, dirname)É345Ê0Ë9246Ïchar
+BIND_TEXTDOMAIN_CODESETÌ65536É74Ê1Ë2465
+BIND_TEXTDOMAIN_CODESETÌ65536É80Ê1Ë2632
+BIND_TEXTDOMAIN_CODESETÌ16Í(domainname, codeset)É356Ê0Ë9554Ïchar
+__libc_rwlock_defineÌ131072Í(CLASS, NAME)É38Ê1Ë1194
+__libc_rwlock_unlockÌ131072Í(NAME)É40Ê1Ë1273
+__libc_rwlock_wrlockÌ131072Í(NAME)É39Ê1Ë1237
+_nl_default_dirnameÌ65536É47Ê1Ë1531
+_nl_default_dirnameÌ32768É59Ê0Ë1890Ïchar
+_nl_domain_bindingsÌ65536É48Ê1Ë1582
+_nl_domain_bindingsÌ32768É62Ê0Ë1979Ïbinding
+offsetofÌ131072Í(type,ident)É53Ê1Ë1732
+set_binding_valuesÌ1024Í((const char *domainname, const char **dirnamep, const char **codesetp))É84Ê1Ë2830Ïvoid
+set_binding_valuesÌ16Í(domainname, dirnamep, codesetp)É95Ê1Ë3367Ïvoid
+strdupÌ131072Í(str)É76Ê1Ë2540
+/home/oktay/Anjuta/Projects/lats/intl/dcgettext.cÌ262144Ñ1017048340
+DCGETTEXTÌ65536É36Ê1Ë1265
+DCGETTEXTÌ65536É39Ê1Ë1335
+DCGETTEXTÌ16Í(domainname, msgid, category)É46Ê0Ë1617Ïchar
+DCIGETTEXTÌ65536É37Ê1Ë1296
+DCIGETTEXTÌ65536É40Ê1Ë1366
+/home/oktay/Anjuta/Projects/lats/intl/dcigettext.cÌ262144Ñ1017048340
+ADD_BLOCKÌ131072Í(list, address)É307Ê1Ë8996
+ADD_BLOCKÌ131072Í(list, addr)É315Ê1Ë9158
+DCIGETTEXTÌ65536É357Ê1Ë10483
+DCIGETTEXTÌ65536É359Ê1Ë10522
+DETERMINE_SECUREÌ65536É371Ê1Ë10906
+DETERMINE_SECUREÌ65536É387Ê1Ë11226
+ENABLE_SECUREÌ65536É370Ê1Ë10862
+ENABLE_SECUREÌ65536É386Ê1Ë11182
+FREE_BLOCKSÌ131072Í(list)É308Ê1Ë9044
+FREE_BLOCKSÌ131072Í(list)É326Ê1Ë9610
+HAS_DEVICEÌ131072Í(P)É187Ê1Ë5246
+HAVE_ALLOCAÌ65536É33Ê1Ë1209
+HAVE_LOCALE_NULLÌ65536É207Ê1Ë6115
+INITIAL_BLOCK_SIZEÌ65536É817Ê1Ë23553
+ISSLASHÌ131072Í(C)É186Ê1Ë5198
+ISSLASHÌ131072Í(C)É195Ê1Ë5564
+IS_ABSOLUTE_PATHÌ131072Í(P)É190Ê1Ë5372
+IS_ABSOLUTE_PATHÌ131072Í(P)É196Ê1Ë5597
+IS_PATH_WITH_DIRÌ131072Í(P)É191Ê1Ë5438
+IS_PATH_WITH_DIRÌ131072Í(P)É197Ê1Ë5643
+PATH_INCRÌ65536É147Ê1Ë3907
+PATH_MAXÌ65536É162Ê1Ë4367
+PATH_MAXÌ65536É171Ê1Ë4672
+PATH_MAXÌ65536É175Ê1Ë4726
+_GNU_SOURCEÌ65536É22Ê1Ë1055
+_POSIX_PATH_MAXÌ65536É158Ê1Ë4284
+__libc_lock_define_initializedÌ131072Í(CLASS, NAME)É89Ê1Ë2124
+__libc_lock_lockÌ131072Í(NAME)É90Ê1Ë2177
+__libc_lock_unlockÌ131072Í(NAME)É91Ê1Ë2209
+__libc_rwlock_define_initializedÌ131072Í(CLASS, NAME)É92Ê1Ë2243
+__libc_rwlock_rdlockÌ131072Í(NAME)É93Ê1Ë2298
+__libc_rwlock_unlockÌ131072Í(NAME)É94Ê1Ë2334
+__set_errnoÌ131072Í(val)É53Ê1Ë1497
+_nl_current_default_domainÌ65536É110Ê1Ë2869
+_nl_current_default_domainÌ16384É279Ê0Ë7977Ïchar
+_nl_default_default_domainÌ65536É109Ê1Ë2804
+_nl_default_default_domainÌ16384É276Ê0Ë7866Ïchar
+_nl_default_dirnameÌ65536É111Ê1Ë2934
+_nl_default_dirnameÌ16384É282Ê0Ë8109Ïchar
+_nl_domain_bindingsÌ65536É112Ê1Ë2985
+_nl_domain_bindingsÌ16384É286Ê0Ë8240Ïbinding
+_nl_find_msgÌ16Í(domain_file, domainbinding, msgid, lengthp)É678Ê0Ë19622Ïchar
+addressÌ64É312Ê1Ë9111Îblock_listÏvoid
+alignofÌ131072Í(TYPE)É99Ê1Ë2443
+alignofÌ131072Í(TYPE)É101Ê1Ë2491
+allocaÌ65536É32Ê1Ë1176
+allocaÌ1024Í()É42Ê1Ë1367Ïchar
+allocaÌ65536É334Ê1Ë9868
+allocaÌ131072Í(size)É335Ê1Ë9883
+block_listÌ2048É310Ê1Ë9109
+categoryÌ64É218Ê1Ë6347Îknown_translation_tÏint
+categoryÌ16384É407Ê0Ë11868Ïint
+category_to_nameÌ16Í(category)É1091Ê1Ë30040Ïchar
+counterÌ64É221Ê1Ë6437Îknown_translation_tÏint
+dataÌ64É344Ê1Ë10072Îtransmem_listÏchar
+domainÌ64É224Ê1Ë6498Îknown_translation_tÏloaded_l10nfile
+domainnameÌ64É215Ê1Ë6303Îknown_translation_tÏchar
+errnoÌ32768É50Ê0Ë1452Ïint
+free_memÌ16Í(void)É1226Ê1Ë33221Ïvoid
+getcwdÌ65536É126Ê1Ë3438
+getcwdÌ131072Í(buf, max)É134Ê1Ë3584
+getcwdÌ1024Í()É136Ê1Ë3630Ïchar
+getegidÌ131072Í()É383Ê1Ë11119
+geteuidÌ131072Í()É380Ê1Ë11060
+getgidÌ131072Í()É377Ê1Ë11009
+getuidÌ131072Í()É374Ê1Ë10959
+getwdÌ1024Í()É133Ê1Ë3568Ïchar
+guess_category_valueÌ16Í(category, categoryname)É1151Ê1Ë31156Ïchar
+known_translation_tÌ2048É212Ê1Ë6265
+mempcpyÌ1024Í((void *dest, const void *src, size_t n))É142Ê1Ë3766Ïvoid
+mempcpyÌ16Í(dest, src, n)É1212Ê1Ë33001Ïvoid
+msgidÌ64É231Ê1Ë6672Îknown_translation_tÏchar
+msgid2Ì16384É404Ê0Ë11800Ï__libc_rwlock_define_initialized
+nÌ16384É406Ê0Ë11842Ïlong
+nextÌ64É313Ê1Ë9128Îblock_listÏblock_list
+nextÌ64É343Ê1Ë10042Îtransmem_listÏtransmem_list
+offsetofÌ131072Í(type,ident)É117Ê1Ë3135
+pluralÌ16384É405Ê0Ë11825Ïint
+plural_evalÌ16Í(pexp, n)É1010Ê1Ë28308Ïlong
+plural_lookupÌ16Í(domain, n, translation, translation_len)É969Ê1Ë27279Ïchar
+rootÌ16384É239Ê1Ë6895Ïvoid
+stpcpyÌ65536É128Ê1Ë3479
+stpcpyÌ1024Í((char *dest, const char *src))É139Ê1Ë3676Ïchar
+stpcpyÌ16Í(dest, src)É1200Ê1Ë32790Ïchar
+strchrÌ65536É62Ê1Ë1657
+tfindÌ65536É130Ê1Ë3513
+transcmpÌ1024Í((const void *p1, const void *p2))É246Ê1Ë7041Ïint
+transcmpÌ16Í(p1, p2)É248Ê1Ë7175Ïint
+translationÌ64É227Ê1Ë6571Îknown_translation_tÏchar
+translation_lengthÌ64É228Ê1Ë6598Îknown_translation_tÏsize_t
+transmem_block_tÌ4096É345Ê1Ë10091Ïtransmem_list
+transmem_block_tÌ4096É348Ê1Ë10161Ïchar
+transmem_listÌ2048É341Ê1Ë10040
+transmem_listÌ16384É346Ê1Ë10111
+tsearchÌ65536É242Ê1Ë6929
+/home/oktay/Anjuta/Projects/lats/intl/dcngettext.cÌ262144Ñ1017048340
+DCIGETTEXTÌ65536É37Ê1Ë1299
+DCIGETTEXTÌ65536É40Ê1Ë1371
+DCNGETTEXTÌ65536É36Ê1Ë1266
+DCNGETTEXTÌ65536É39Ê1Ë1338
+DCNGETTEXTÌ16Í(domainname, msgid1, msgid2, n, category)É46Ê0Ë1687Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/dgettext.cÌ262144Ñ1017048340
+DCGETTEXTÌ65536É39Ê1Ë1314
+DCGETTEXTÌ65536É42Ê1Ë1380
+DGETTEXTÌ65536É38Ê1Ë1285
+DGETTEXTÌ65536É41Ê1Ë1351
+DGETTEXTÌ16Í(domainname, msgid)É48Ê0Ë1601Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/dngettext.cÌ262144Ñ1017048340
+DCNGETTEXTÌ65536É39Ê1Ë1317
+DCNGETTEXTÌ65536É42Ê1Ë1387
+DNGETTEXTÌ65536É38Ê1Ë1286
+DNGETTEXTÌ65536É41Ê1Ë1356
+DNGETTEXTÌ16Í(domainname, msgid1, msgid2, n)É48Ê0Ë1721Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/explodename.cÌ262144Ñ1017048340
+NULLÌ65536É31Ê1Ë1096
+NULLÌ65536É33Ê1Ë1131
+_nl_explode_nameÌ16Í(name, language, modifier, territory, codeset, normalized_codeset, special, sponsor, revision)É52Ê0Ë1758Ïint
+_nl_find_languageÌ16Í(name)É40Ê0Ë1246Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/finddomain.cÌ262144Ñ1017048340
+_nl_find_domainÌ16Í(dirname, locale, domainname, domainbinding)É49Ê0Ë1672Ïloaded_l10nfile
+_nl_loaded_domainsÌ16384É41Ê1Ë1233Ïloaded_l10nfile
+free_memÌ16Í(void)É181Ê1Ë5345Ïvoid
+/home/oktay/Anjuta/Projects/lats/intl/gettext.cÌ262144Ñ1017048340
+DCGETTEXTÌ65536É44Ê1Ë1400
+DCGETTEXTÌ65536É47Ê1Ë1464
+GETTEXTÌ65536É43Ê1Ë1373
+GETTEXTÌ65536É46Ê1Ë1437
+GETTEXTÌ16Í(msgid)É54Ê0Ë1708Ïchar
+__need_NULLÌ65536É23Ê1Ë877
+/home/oktay/Anjuta/Projects/lats/intl/intl-compat.cÌ262144Ñ1017048340
+bind_textdomain_codesetÌ65536É79Ê1Ë3220
+bind_textdomain_codesetÌ16Í(domainname, codeset)É160Ê0Ë4639Ïchar
+bindtextdomainÌ65536É78Ê1Ë3198
+bindtextdomainÌ16Í(domainname, dirname)É151Ê0Ë4476Ïchar
+dcgettextÌ65536É73Ê1Ë3112
+dcgettextÌ16Í(domainname, msgid, category)É100Ê0Ë3589Ïchar
+dcngettextÌ65536É76Ê1Ë3162
+dcngettextÌ16Í(domainname, msgid1, msgid2, n, category)É131Ê0Ë4204Ïchar
+dgettextÌ65536É72Ê1Ë3096
+dgettextÌ16Í(domainname, msgid)É91Ê0Ë3423Ïchar
+dngettextÌ65536É75Ê1Ë3145
+dngettextÌ16Í(domainname, msgid1, msgid2, n)É120Ê0Ë3960Ïchar
+gettextÌ65536É71Ê1Ë3081
+gettextÌ16Í(msgid)É83Ê0Ë3300Ïchar
+ngettextÌ65536É74Ê1Ë3129
+ngettextÌ16Í(msgid1, msgid2, n)É110Ê0Ë3759Ïchar
+textdomainÌ65536É77Ê1Ë3180
+textdomainÌ16Í(domainname)É143Ê0Ë4335Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/l10nflist.cÌ262144Ñ1017048340
+NULLÌ65536É48Ê1Ë1531
+NULLÌ65536É50Ê1Ë1566
+_GNU_SOURCEÌ65536É22Ê1Ë1064
+__argz_countÌ65536É90Ê1Ë2487
+__argz_countÌ131072Í(argz, len)É91Ê1Ë2508
+__argz_nextÌ65536É141Ê1Ë3756
+__argz_nextÌ131072Í(argz, len, entry)É142Ê1Ë3776
+__argz_stringifyÌ65536É114Ê1Ë3113
+__argz_stringifyÌ131072Í(argz, len, sep)É115Ê1Ë3138
+_nl_make_l10nflistÌ16Í(l10nfile_list, dirlist, dirlist_len, mask, language, territory, codeset, normalized_codeset, modifier, special, sponsor, revision, filename, do_allocate)É164Ê0Ë4816Ïloaded_l10nfile
+_nl_normalize_codesetÌ16Í(codeset, name_len)É347Ê0Ë9382Ïchar
+argz_count__Ì1024Í((const char *argz, size_t len))É73Ê1Ë2160Ïsize_t
+argz_count__Ì16Í(argz, len)É76Ê1Ë2308Ïsize_t
+argz_next__Ì1024Í((char *argz, size_t argz_len, const char *entry))É119Ê1Ë3372Ïchar
+argz_next__Ì16Í(argz, argz_len, entry)É123Ê1Ë3513Ïchar
+argz_stringify__Ì1024Í((char *argz, size_t len, int sep))É97Ê1Ë2786Ïvoid
+argz_stringify__Ì16Í(argz, len, sep)É100Ê1Ë2954Ïvoid
+popÌ1024Í((int x))É147Ê1Ë3928Ïint
+popÌ16Í(x)É150Ê1Ë4000Ïinline
+stpcpyÌ131072Í(dest, src)É61Ê1Ë1849
+stpcpyÌ1024Í((char *dest, const char *src))É65Ê1Ë1932Ïchar
+stpcpyÌ16Í(dest, src)É396Ê1Ë10356Ïchar
+strchrÌ65536É32Ê1Ë1216
+/home/oktay/Anjuta/Projects/lats/intl/loadmsgcat.cÌ262144Ñ1017048340
+HAVE_ALLOCAÌ65536É37Ê1Ë1269
+HAVE_MMAPÌ65536É67Ê1Ë1809
+HAVE_MMAPÌ65536É68Ê1Ë1827
+HAVE_MMAPÌ65536É70Ê1Ë1854
+INIT_GERMANIC_PLURALÌ131072Í()É167Ê1Ë4267
+INIT_GERMANIC_PLURALÌ131072Í()É197Ê1Ë4899
+O_BINARYÌ65536É116Ê1Ë3124
+O_BINARYÌ65536É121Ê1Ë3265
+O_BINARYÌ65536É126Ê1Ë3378
+O_TEXTÌ65536É117Ê1Ë3152
+O_TEXTÌ65536É122Ê1Ë3282
+PLURAL_PARSEÌ65536É98Ê1Ë2611
+PLURAL_PARSEÌ65536É100Ê1Ë2654
+_GNU_SOURCEÌ65536É22Ê1Ë1033
+_nl_free_domain_convÌ16Í(domain)É318Ê0Ë8373Ïvoid
+_nl_init_domain_convÌ16Í(domain_file, domain, domainbinding)É206Ê0Ë5271Ïchar
+_nl_load_domainÌ16Í(domain_file, domainbinding)É339Ê0Ë8918Ïvoid
+_nl_msg_cat_cntrÌ16384É132Ê0Ë3592Ïint
+_nl_unload_domainÌ16Í(domain)É549Ê0Ë14604Ïvoid
+allocaÌ65536É36Ê1Ë1236
+allocaÌ1024Í()É46Ê1Ë1427Ïchar
+allocaÌ131072Í(n)É108Ê1Ë2867
+closeÌ65536É87Ê1Ë2235
+freeaÌ131072Í(p)É106Ê1Ë2829
+freeaÌ131072Í(p)É109Ê1Ë2897
+germanic_pluralÌ16384É153Ê1Ë4263Ïexpression
+germanic_pluralÌ16384É176Ê1Ë4480Ïexpression
+init_germanic_pluralÌ16Í()É179Ê1Ë4559Ïvoid
+mmapÌ65536É89Ê1Ë2282
+munmapÌ65536É90Ê1Ë2305
+openÌ65536É86Ê1Ë2212
+ploneÌ16384É144Ê1Ë4051Ïexpression
+ploneÌ16384É175Ê1Ë4448Ïexpression
+plvarÌ16384É139Ê1Ë3943Ïexpression
+plvarÌ16384É174Ê1Ë4416Ïexpression
+readÌ65536É88Ê1Ë2259
+/home/oktay/Anjuta/Projects/lats/intl/localcharset.cÌ262144Ñ1017048340
+DIRECTORY_SEPARATORÌ65536É59Ê1Ë1504
+ISSLASHÌ131072Í(C)É63Ê1Ë1561
+WIN32Ì65536É41Ê1Ë1196
+WIN32Ì65536É42Ê1Ë1243
+WIN32_LEAN_AND_MEANÌ65536É54Ê1Ë1417
+charset_aliasesÌ16384É78Ê1Ë2301Ïchar
+get_charset_aliasesÌ16Í()É82Ê1Ë2458Ïchar
+locale_charsetÌ16Í()É203Ê0Ë5185ÏSTATIC
+volatileÌ65536É73Ê1Ë2075
+/home/oktay/Anjuta/Projects/lats/intl/localealias.cÌ262144Ñ1017048341
+HAVE_ALLOCAÌ65536É35Ê1Ë1231
+HAVE_MEMPCPYÌ65536É72Ê1Ë1916
+_GNU_SOURCEÌ65536É22Ê1Ë1036
+_nl_expand_aliasÌ16Í(name)É127Ê0Ë3224Ïchar
+aliasÌ64É105Ê1Ë2665Îalias_mapÏchar
+alias_compareÌ1024Í((const struct alias_map *map1, const struct alias_map *map2))É122Ê1Ë3125Ïint
+alias_compareÌ16Í(map1, map2)É374Ê1Ë8789Ïint
+alias_mapÌ2048É103Ê1Ë2663
+allocaÌ65536É34Ê1Ë1198
+allocaÌ1024Í()É44Ê1Ë1389Ïchar
+allocaÌ131072Í(n)É89Ê1Ë2329
+extend_alias_tableÌ1024Í((void))É121Ê1Ë3014Ïint
+extend_alias_tableÌ16Í()É342Ê1Ë8122Ïint
+feofÌ65536É98Ê1Ë2589
+feofÌ131072Í(s)É99Ê1Ë2602
+fgetsÌ65536É94Ê1Ë2453
+fgetsÌ131072Í(buf, len, s)É95Ê1Ë2467
+free_memÌ16Í(void)É362Ê1Ë8532Ïvoid
+freeaÌ131072Í(p)É87Ê1Ë2291
+freeaÌ131072Í(p)É90Ê1Ë2359
+internal_functionÌ65536É81Ê1Ë2126
+mapÌ16384É113Ê1Ë2803Ïalias_map
+maxmapÌ16384É115Ê1Ë2853Ïsize_t
+mempcpyÌ65536É70Ê1Ë1880
+nmapÌ16384É114Ê1Ë2833Ïsize_t
+read_alias_fileÌ16Í(fname, fname_len)É191Ê1Ë4525Ïsize_t
+strcasecmpÌ65536É67Ê1Ë1829
+strchrÌ65536É55Ê1Ë1533
+string_spaceÌ16384É110Ê1Ë2712Ïchar
+string_space_actÌ16384É111Ê1Ë2739Ïsize_t
+string_space_maxÌ16384É112Ê1Ë2771Ïsize_t
+valueÌ64É106Ê1Ë2686Îalias_mapÏchar
+/home/oktay/Anjuta/Projects/lats/intl/ngettext.cÌ262144Ñ1017048341
+DCNGETTEXTÌ65536É46Ê1Ë1424
+DCNGETTEXTÌ65536É49Ê1Ë1492
+NGETTEXTÌ65536É45Ê1Ë1395
+NGETTEXTÌ65536É48Ê1Ë1463
+NGETTEXTÌ16Í(msgid1, msgid2, n)É56Ê0Ë1803Ïchar
+__need_NULLÌ65536É23Ê1Ë878
+/home/oktay/Anjuta/Projects/lats/intl/plural.cÌ262144Ñ1017048341
+ADDOP2Ì65536É16Ê1Ë372
+CMPOP2Ì65536É15Ê1Ë353
+EQUOP2Ì65536É14Ê1Ë334
+FREE_EXPRESSIONÌ65536É60Ê1Ë2020
+FREE_EXPRESSIONÌ65536É62Ê1Ë2070
+FREE_EXPRESSIONÌ16Í(exp)É1149Ê0Ë30221Ïvoid
+MULOP2Ì65536É17Ê1Ë391
+NUMBERÌ65536É18Ê1Ë410
+YYABORTÌ65536É393Ê1Ë12765
+YYACCEPTÌ65536É392Ê1Ë12731
+YYBACKUPÌ131072Í(token, value)É401Ê1Ë13104
+YYBISONÌ65536É5Ê1Ë75
+YYEMPTYÌ65536É390Ê1Ë12694
+YYEOFÌ65536É391Ê1Ë12714
+YYERRCODEÌ65536É414Ê1Ë13457
+YYERRORÌ65536É394Ê1Ë12798
+YYFAILÌ65536É399Ê1Ë13034
+YYFINALÌ65536É183Ê1Ë4814
+YYFLAGÌ65536É184Ê1Ë4834
+YYINITDEPTHÌ65536É461Ê1Ë14498
+YYLASTÌ65536É282Ê1Ë8558
+YYLEXÌ65536É417Ê1Ë13495
+YYLEXÌ65536É423Ê1Ë13579
+YYLEXÌ65536É425Ê1Ë13637
+YYLEXÌ65536É429Ê1Ë13731
+YYLEXÌ65536É431Ê1Ë13780
+YYLEX_PARAMÌ65536É66Ê1Ë2161
+YYMAXDEPTHÌ65536É468Ê1Ë14682
+YYMAXDEPTHÌ65536É472Ê1Ë14727
+YYNTBASEÌ65536É185Ê1Ë4857
+YYPARSE_PARAMÌ65536É67Ê1Ë2214
+YYPARSE_PARAM_ARGÌ65536É529Ê1Ë16243
+YYPARSE_PARAM_ARGÌ65536É532Ê1Ë16344
+YYPARSE_PARAM_ARGÌ65536É536Ê1Ë16491
+YYPARSE_PARAM_DECLÌ65536É530Ê1Ë16289
+YYPARSE_PARAM_DECLÌ65536É533Ê1Ë16384
+YYPARSE_PARAM_DECLÌ65536É537Ê1Ë16517
+YYPOPSTACKÌ65536É571Ê1Ë17438
+YYPOPSTACKÌ65536É573Ê1Ë17493
+YYPUREÌ65536É302Ê1Ë9418
+YYRECOVERINGÌ131072Í()É400Ê1Ë13064
+YYSTACK_ALLOCÌ65536É379Ê1Ë12403
+YYSTACK_ALLOCÌ65536É381Ê1Ë12438
+YYSTACK_USE_ALLOCAÌ65536É338Ê1Ë10956
+YYSTACK_USE_ALLOCAÌ65536É341Ê1Ë11030
+YYSTACK_USE_ALLOCAÌ65536É345Ê1Ë11262
+YYSTACK_USE_ALLOCAÌ65536É362Ê1Ë11903
+YYSTACK_USE_ALLOCAÌ65536É367Ê1Ë12108
+YYSTYPEÌ4096É74Ê1Ë2348
+YYTERRORÌ65536É413Ê1Ë13438
+YYTRANSLATEÌ131072Í(x)É187Ê1Ë4878
+__gettextparseÌ65536É63Ê1Ë2114
+__yy_memcpyÌ131072Í(TO,FROM,COUNT)É481Ê1Ë15067
+__yy_memcpyÌ16Í(to, from, count)É488Ê1Ë15405Ïvoid
+__yy_memcpyÌ16Í(char *to, char *from, unsigned int count)É506Ê1Ë15735Ïvoid
+allocaÌ65536É342Ê1Ë11057
+allocaÌ65536É368Ê1Ë12135
+constÌ65536É177Ê1Ë4783
+expÌ64É73Ê1Ë2322Ïexpression
+new_expÌ1024Í((int nargs, enum operator op, struct expression * const *args))É78Ê1Ë2491Ïexpression
+new_expÌ16Í(nargs, op, args)É96Ê1Ë3305Ïexpression
+new_exp_0Ì1024Í((enum operator op))É80Ê1Ë2534Ïinline
+new_exp_0Ì16Í(op)É128Ê1Ë3928Ïinline
+new_exp_1Ì1024Í((enum operator op, struct expression *right))É81Ê1Ë2676Ïinline
+new_exp_1Ì16Í(op, right)É135Ê1Ë4075Ïinline
+new_exp_2Ì1024Í((enum operator op, struct expression *left, struct expression *right))É83Ê1Ë2811Ïexpression
+new_exp_2Ì16Í(op, left, right)É146Ê1Ë4301Ïexpression
+new_exp_3Ì1024Í((enum operator op, struct expression *bexp, struct expression *tbranch, struct expression *fbranch))É86Ê1Ë2990Ïinline
+new_exp_3Ì16Í(op, bexp, tbranch, fbranch)É159Ê1Ë4598Ïinline
+numÌ64É71Ê1Ë2277Ïlong
+opÌ64É72Ê1Ë2302Ïoperator
+yycharÌ65536É11Ê1Ë243
+yycharÌ16384É440Ê0Ë13923Ïint
+yycheckÌ16384É294Ê1Ë9415Ïshort
+yyclearinÌ65536É389Ê1Ë12657
+yydebugÌ65536É12Ê1Ë272
+yydebugÌ16384É453Ê0Ë14256Ïint
+yydefactÌ16384É261Ê1Ë8215Ïshort
+yydefgotoÌ16384É267Ê1Ë8268Ïshort
+yyerrokÌ65536É388Ê1Ë12622
+yyerrorÌ65536É9Ê1Ë183
+yyerrorÌ1024Í((const char *str))É91Ê1Ë3091Ïvoid
+yyerrorÌ16Í(str)É1321Ê1Ë32758Ïvoid
+yylexÌ65536É8Ê1Ë156
+yylexÌ1024Í((YYSTYPE *lval, const char **pexp))É90Ê1Ë3029Ïint
+yylexÌ16Í(lval, pexp)É1176Ê1Ë30678Ïint
+yyllocÌ16384É445Ê0Ë14069ÏYYLTYPE
+yylvalÌ65536É10Ê1Ë214
+yylvalÌ16384É441Ê0Ë13966ÏYYSTYPE
+yynerrsÌ65536É13Ê1Ë303
+yynerrsÌ16384É449Ê0Ë14155Ïint
+yypactÌ16384É271Ê1Ë8502Ïshort
+yyparseÌ65536É7Ê1Ë125
+yyparseÌ1024Í(void *)É543Ê1Ë16660Ïint
+yyparseÌ1024Í(void)É545Ê1Ë16688Ïint
+yyparseÌ16Í(YYPARSE_PARAM_ARG)É550Ê0Ë16778Ïint
+yypgotoÌ16384É277Ê1Ë8553Ïshort
+yyprhsÌ16384É220Ê1Ë6988Ïshort
+yyr1Ì16384É251Ê1Ë7853Ïshort
+yyr2Ì16384É256Ê1Ë7979Ïshort
+yyrhsÌ16384É225Ê1Ë7328Ïshort
+yyrlineÌ16384É236Ê1Ë7478Ïshort
+yytableÌ16384É285Ê1Ë8995Ïshort
+yytnameÌ16384É245Ê1Ë7720Ïchar
+yytranslateÌ16384É189Ê1Ë6843Ïchar
+/home/oktay/Anjuta/Projects/lats/intl/textdomain.cÌ262144Ñ1017048341
+TEXTDOMAINÌ65536É64Ê1Ë2160
+TEXTDOMAINÌ65536É69Ê1Ë2260
+TEXTDOMAINÌ16Í(domainname)É79Ê0Ë2663Ïchar
+__libc_rwlock_defineÌ131072Í(CLASS, NAME)É37Ê1Ë1171
+__libc_rwlock_unlockÌ131072Í(NAME)É39Ê1Ë1250
+__libc_rwlock_wrlockÌ131072Í(NAME)É38Ê1Ë1214
+_nl_current_default_domainÌ65536É47Ê1Ë1573
+_nl_current_default_domainÌ32768É56Ê0Ë1838Ïchar
+_nl_default_default_domainÌ65536É46Ê1Ë1508
+_nl_default_default_domainÌ32768É53Ê0Ë1713Ïchar
+strdupÌ131072Í(str)É66Ê1Ë2209
+/home/oktay/Anjuta/Projects/lats/src/support.cÌ262144Ñ1017048341
+create_dummy_pixmapÌ1024Í(GtkWidget *widget, gboolean gnome_pixmap)É19Ê1Ë366ÏGtkWidget
+create_dummy_pixmapÌ16Í(GtkWidget *widget, gboolean gnome_pixmap)É58Ê1Ë1498ÏGtkWidget
+create_imageÌ16Í(const gchar *filename)É130Ê0Ë3564ÏGdkImlibImage
+create_pixmapÌ16Í(GtkWidget *widget, const gchar *filename, gboolean gnome_pixmap)É84Ê0Ë2362ÏGtkWidget
+dummy_pixmap_xpmÌ16384É47Ê1Ë1279Ïchar
+lookup_widgetÌ16Í(GtkWidget *widget, const gchar *widget_name)É23Ê0Ë585ÏGtkWidget
+/home/oktay/Anjuta/Projects/lats/src/interface.cÌ262144Ñ1017048341
+create_MainWindowÌ16Í(void)É70Ê0Ë1758ÏGtkWidget
+create_about1Ì16Í(void)É1375Ê0Ë64051ÏGtkWidget
+create_colorselectiondialog1Ì16Í(void)É2476Ê0Ë121235ÏGtkWidget
+create_fullscreenwindowÌ16Í(void)É2521Ê0Ë123605ÏGtkWidget
+create_prefswindowÌ16Í(void)É1395Ê0Ë64684ÏGtkWidget
+edit1_menu_uiinfoÌ16384É31Ê1Ë1070ÏGnomeUIInfo
+file1_menu_uiinfoÌ16384É20Ê1Ë686ÏGnomeUIInfo
+help1_menu_uiinfoÌ16384É53Ê1Ë1397ÏGnomeUIInfo
+menubar1_uiinfoÌ16384É59Ê1Ë1718ÏGnomeUIInfo
+settings1_menu_uiinfoÌ16384É47Ê1Ë1274ÏGnomeUIInfo
+view1_menu_uiinfoÌ16384É42Ê1Ë1135ÏGnomeUIInfo
+/home/oktay/Anjuta/Projects/lats/src/lookfordirentries.cÌ262144Ñ1017048341
+bufÌ16384É7Ê0Ë112Ïchar
+mainÌ16Í(int argc, char *argv[])É10Ê0Ë163Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/gtkentry.cÌ262144Ñ1017048341
+enter_callbackÌ16Í( GtkWidget *widget, GtkWidget *entry )É6Ê0Ë156Ïvoid
+entry_toggle_editableÌ16Í( GtkWidget *checkbutton, GtkWidget *entry )É14Ê0Ë380Ïvoid
+entry_toggle_visibilityÌ16Í( GtkWidget *checkbutton, GtkWidget *entry )É21Ê0Ë576Ïvoid
+mainÌ16Í( int argc, char *argv[] )É28Ê0Ë718Ïint
+/home/oktay/Anjuta/Projects/lats/src/importedfuncs.cÌ262144Ñ1017048341
+text_from_sizeÌ16Í(int size)É12Ê0Ë313Ïgchar
+text_from_timeÌ16Í(time_t t)É74Ê0Ë1837Ïgchar
+text_from_varÌ16Í(int size)É87Ê0Ë2131Ïgchar
+/home/oktay/Anjuta/Projects/lats/src/toolbars.cÌ262144Ñ1017048341
+MainWindowÌ32768É27Ê0Ë442ÏGtkWidget
+add_vmbutton_series_to_toolbarÌ16Í( int toolbarnum, int use_accels )É219Ê0Ë7254Ïvoid
+add_zoom_buttons_to_toolbarÌ16Í( void )É30Ê0Ë518Ïvoid
+vmbutton_disableÌ16Í( int button )É189Ê0Ë6284Ïvoid
+vmbutton_enableÌ16Í( int button )É204Ê0Ë6753Ïvoid
+vmbutton_hideÌ16Í( int button )É159Ê0Ë5443Ïvoid
+vmbutton_showÌ16Í( int button )É174Ê0Ë5862Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/colors.cÌ262144Ñ1017048341
+MainWindowÌ32768É20Ê0Ë326ÏGtkWidget
+PrefsWindowÌ32768É21Ê0Ë357ÏGtkWidget
+check_color_out_cut_off_factorÌ32768É18Ê0Ë279Ïfloat
+get_blue_from_rgb_valueÌ16Í( double color, int range )É60Ê0Ë1197Ïint
+get_check_color_aÌ16Í( void )É111Ê0Ë2582Ïint
+get_check_color_autoÌ16Í( void )É139Ê0Ë3200Ïint
+get_check_color_bÌ16Í( void )É118Ê0Ë2734Ïint
+get_check_color_out_aÌ16Í( void )É125Ê0Ë2890Ïint
+get_check_color_out_bÌ16Í( void )É132Ê0Ë3046Ïint
+get_check_color_out_cut_off_factorÌ16Í( void )É153Ê0Ë3535Ïfloat
+get_check_color_out_useÌ16Í( void )É146Ê0Ë3361Ïint
+get_green_from_rgb_valueÌ16Í( double color, int range )É43Ê0Ë857Ïint
+get_pixel_from_loaded_imageÌ16Í( int x, int y )É160Ê0Ë3712Ïguint32
+get_red_from_rgb_valueÌ16Í( double color, int range )É25Ê0Ë446Ïint
+loaded_imageÌ32768É16Ê0Ë218ÏGdkPixbuf
+scale_colorÌ16Í( guint8 r, guint8 g, guint8 b, guint8 a, guint8 dest, guint8 fadeout )É93Ê0Ë1980Ïguint32
+show_rgb_from_valueÌ16Í( double color, int range )É75Ê0Ë1457Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/imagelist.cÌ262144Ñ1017048341
+FullscreenWindowÌ32768É58Ê0Ë1037ÏGtkWidget
+LATS_RC_DIRÌ32768É52Ê0Ë880Ïchar
+LATS_RC_THUMB_DIRÌ32768É53Ê0Ë907Ïchar
+LATS_RC_THUMB_IN_HOMEÌ32768É55Ê0Ë970Ïint
+LATS_THUMB_DIRÌ32768É54Ê0Ë940Ïchar
+MainWindowÌ32768É57Ê0Ë1006ÏGtkWidget
+check_color_aÌ32768É38Ê0Ë598Ïguint32
+check_color_bÌ32768É39Ê0Ë629Ïguint32
+check_sizeÌ32768É37Ê0Ë574Ïint
+dirnameÌ16384É49Ê0Ë834Ïchar
+filedisplay_as_iconsÌ32768É47Ê0Ë799Ïint
+filenameÌ16384É50Ê0Ë856Ïchar
+get_thumbnailÌ16Í( char *filename, int FORCE_RELOAD )É95Ê0Ë1739ÏGdkPixbuf
+isdirÌ16Í(char *filename)É76Ê0Ë1429Ïgboolean
+isimageÌ16Í(char *filename)É61Ê0Ë1109Ïgboolean
+max_thumb_sizeÌ32768É43Ê0Ë709Ïint
+no_thumb_sizeÌ32768É44Ê0Ë737Ïint
+read_dir_from_comboÌ16Í( int FORCE_RELOAD, gpointer user_data)É249Ê0Ë7537Ïvoid
+thumb_render_qualityÌ32768É45Ê0Ë764Ïint
+thumb_sizeÌ32768É42Ê0Ë685Ïint
+thumbnailsÌ32768É41Ê0Ë661Ïint
+/home/oktay/Anjuta/Projects/lats/src/pixbuf_util.cÌ262144Ñ1017048341
+pixbuf_copy_mirrorÌ16Í(GdkPixbuf *src, gint mirror, gint flip)É222Ê0Ë5463ÏGdkPixbuf
+pixbuf_copy_rotate_90Ì16Í(GdkPixbuf *src, gint counter_clockwise)É164Ê0Ë4233ÏGdkPixbuf
+pixbuf_to_file_as_pngÌ16Í(GdkPixbuf *pixbuf, char *filename)É37Ê0Ë1247Ïgboolean
+/home/oktay/Anjuta/Projects/lats/src/callbacks.cÌ262144Ñ1017148872
+BgColorSelectionDialogÌ32768É63Ê0Ë1412ÏGtkWidget
+DEBUGÌ32768É36Ê0Ë663Ïint
+FullscreenWindowÌ32768É64Ê0Ë1455ÏGtkWidget
+LATS_RC_DIRÌ32768É55Ê0Ë1195Ïchar
+LATS_RC_FILEÌ32768É56Ê0Ë1222Ïchar
+LATS_RC_THUMB_DIRÌ32768É57Ê0Ë1250Ïchar
+LATS_RC_THUMB_IN_HOMEÌ32768É59Ê0Ë1313Ïint
+LATS_THUMB_DIRÌ32768É58Ê0Ë1283Ïchar
+MainWindowÌ32768É61Ê0Ë1349ÏGtkWidget
+PrefsWindowÌ32768É62Ê0Ë1380ÏGtkWidget
+check_color_aÌ32768É44Ê0Ë871Ïguint32
+check_color_bÌ32768É45Ê0Ë902Ïguint32
+check_color_out_aÌ32768É46Ê0Ë933Ïguint32
+check_color_out_bÌ32768É47Ê0Ë968Ïguint32
+check_color_out_cut_off_factorÌ32768É48Ê0Ë1003Ïfloat
+check_color_out_useÌ32768É49Ê0Ë1049Ïint
+check_sizeÌ32768É43Ê0Ë847Ïint
+filedisplay_as_iconsÌ32768É52Ê0Ë1123Ïint
+hide_unusable_view_buttonsÌ32768É50Ê0Ë1082Ïint
+loaded_imageÌ32768É33Ê0Ë515ÏGdkPixbuf
+loaded_scaled_imageÌ32768É34Ê0Ë575ÏGdkPixbuf
+max_thumb_sizeÌ32768É39Ê0Ë730Ïint
+no_thumb_sizeÌ32768É40Ê0Ë758Ïint
+on_MainWindow_delete_eventÌ16Í(GtkWidget *widget, GdkEvent *event, gpointer user_data)É202Ê0Ë4234Ïgboolean
+on_MainWindow_destroy_eventÌ16Í(GtkWidget *widget, GdkEvent *event, gpointer user_data)É212Ê0Ë4478Ïgboolean
+on_MainWindow_key_press_eventÌ16Í(GtkWidget *widget, GdkEventKey *event, gpointer user_data)É1084Ê0Ë35663Ïgboolean
+on_MainWindow_key_release_eventÌ16Í(GtkWidget *widget, GdkEventKey *event, gpointer user_data)É1139Ê0Ë37997Ïgboolean
+on_about1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É184Ê0Ë3787Ïvoid
+on_autozoom_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É602Ê0Ë17857Ïvoid
+on_bgcolorok_button1_clickedÌ16Í(GtkButton *button, gpointer user_data)É781Ê0Ë23865Ïvoid
+on_bgcoloruse_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É566Ê0Ë16863Ïvoid
+on_bgcolorvp_button_press_eventÌ16Í(GtkWidget *widget, GdkEventButton *event, gpointer user_data)É797Ê0Ë24475Ïgboolean
+on_button9_clickedÌ16Í(GtkButton *button, gpointer user_data)É233Ê0Ë4952Ïvoid
+on_clear1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É159Ê0Ë3277Ïvoid
+on_combo_entry1_activateÌ16Í(GtkEditable *editable, gpointer user_data)É222Ê0Ë4656Ïvoid
+on_copy1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É143Ê0Ë2983Ïvoid
+on_cut1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É135Ê0Ë2836Ïvoid
+on_dirlist_select_rowÌ16Í(GtkCList *clist, gint row, gint column, GdkEvent *event, gpointer user_data)É253Ê0Ë5679Ïvoid
+on_exit0_activateÌ16Í(GtkButton *button, gpointer user_data)É194Ê0Ë4006Ïvoid
+on_exit1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É127Ê0Ë2674Ïvoid
+on_frame1radiobutton1_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É1153Ê0Ë38329Ïvoid
+on_frame1radiobutton2_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É1161Ê0Ë38564Ïvoid
+on_fullscreenwindow_hideÌ16Í(GtkWidget *widget, gpointer user_data)É1182Ê0Ë39062Ïvoid
+on_fullscreenwindow_showÌ16Í(GtkWidget *widget, gpointer user_data)É1192Ê0Ë39317Ïvoid
+on_homebutton_clickedÌ16Í(GtkButton *button, gpointer user_data)É409Ê0Ë10962Ïvoid
+on_iconlist_select_iconÌ16Í(GnomeIconList *gnomeiconlist, gint arg1, GdkEvent *event, gpointer user_data)É938Ê0Ë29422Ïvoid
+on_imagedisplay_switch_pageÌ16Í(GtkNotebook *notebook, GtkNotebookPage *page, gint page_num, gpointer user_data)É983Ê0Ë31651Ïvoid
+on_imageiconview_size_allocateÌ16Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É817Ê0Ë25108Ïvoid
+on_imagelist_select_rowÌ16Í(GtkCList *clist, gint row, gint column, GdkEvent *event, gpointer user_data)É339Ê0Ë8368Ïvoid
+on_keepaspect_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É631Ê0Ë18764Ïvoid
+on_new_file1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É95Ê0Ë2086Ïvoid
+on_open1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É103Ê0Ë2233Ïvoid
+on_packer1_size_allocateÌ16Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É827Ê0Ë25376Ïvoid
+on_paste1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É151Ê0Ë3130Ïvoid
+on_preferences1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É175Ê0Ë3571Ïvoid
+on_prefsimageradiobutton1_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É745Ê0Ë22898Ïvoid
+on_prefsimageradiobutton2_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É754Ê0Ë23142Ïvoid
+on_prefsimageradiobutton3_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É763Ê0Ë23384Ïvoid
+on_prefsimageradiobutton4_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É772Ê0Ë23629Ïvoid
+on_prefsimagereload_clickedÌ16Í(GtkButton *button, gpointer user_data)É735Ê0Ë22616Ïvoid
+on_prefsmainentry1_activateÌ16Í(GtkEditable *editable, gpointer user_data)É882Ê0Ë27091Ïvoid
+on_prefsmainentry2_activateÌ16Í(GtkEditable *editable, gpointer user_data)É891Ê0Ë27470Ïvoid
+on_prefsmaintogglebutton1_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É809Ê0Ë24776Ïvoid
+on_prefsthumbentry1_activateÌ16Í(GtkEditable *editable, gpointer user_data)É900Ê0Ë27853Ïvoid
+on_prefsthumbentry2_activateÌ16Í(GtkEditable *editable, gpointer user_data)É909Ê0Ë28262Ïvoid
+on_prefsthumbradiobutton1_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É846Ê0Ë26098Ïvoid
+on_prefsthumbradiobutton2_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É855Ê0Ë26348Ïvoid
+on_prefsthumbradiobutton3_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É864Ê0Ë26596Ïvoid
+on_prefsthumbradiobutton4_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É873Ê0Ë26847Ïvoid
+on_prefsthumbradiobutton5_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É918Ê0Ë28666Ïvoid
+on_prefsthumbradiobutton6_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É928Ê0Ë28986Ïvoid
+on_properties1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É167Ê0Ë3424Ïvoid
+on_save1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É111Ê0Ë2380Ïvoid
+on_save_as1_activateÌ16Í(GtkMenuItem *menuitem, gpointer user_data)É119Ê0Ë2527Ïvoid
+on_scrolledwindow6_button_press_eventÌ16Í(GtkWidget *widget, GdkEventButton *event, gpointer user_data)É1171Ê0Ë38863Ïgboolean
+on_scrolledwindow6_size_allocateÌ16Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É647Ê0Ë19291Ïvoid
+on_scrolledwindow7_size_allocateÌ16Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É1002Ê0Ë32495Ïvoid
+on_scrolledwindow8_size_allocateÌ16Í(GtkWidget *widget, GtkAllocation *allocation, gpointer user_data)É1035Ê0Ë33815Ïvoid
+on_vmbutton1_clickedÌ16Í(GtkButton *button, gpointer user_data)É462Ê0Ë12645Ïvoid
+on_vmbutton2_clickedÌ16Í(GtkButton *button, gpointer user_data)É498Ê0Ë14185Ïvoid
+on_vmbutton3_clickedÌ16Í(GtkButton *button, gpointer user_data)É534Ê0Ë15732Ïvoid
+on_zoom100_clickedÌ16Í(GtkButton *button, gpointer user_data)É593Ê0Ë17622Ïvoid
+on_zoom100_toggledÌ16Í(GtkToggleButton *togglebutton, gpointer user_data)É722Ê0Ë22177Ïvoid
+on_zoomentry_changedÌ16Í(GtkEditable *editable, gpointer user_data)É581Ê0Ë17261Ïvoid
+on_zoomm25_clickedÌ16Í(GtkButton *button, gpointer user_data)É688Ê0Ë20806Ïvoid
+on_zoomp25_clickedÌ16Í(GtkButton *button, gpointer user_data)É705Ê0Ë21489Ïvoid
+pics_per_row_on_sidebarÌ32768É53Ê0Ë1157Ïint
+printdÌ16Í( char *text )É67Ê0Ë1520Ïvoid
+quit_latsÌ16Í( void )É74Ê0Ë1601Ïvoid
+refresh_screenÌ16Í( void )É86Ê0Ë1877Ïvoid
+render_qualityÌ32768É42Ê0Ë819Ïint
+thumb_render_qualityÌ32768É41Ê0Ë785Ïint
+thumb_sizeÌ32768É38Ê0Ë706Ïint
+thumbnailsÌ32768É37Ê0Ë682Ïint
+/home/oktay/Anjuta/Projects/lats/src/main.cÌ262144Ñ1017147977
+BgColorSelectionDialogÌ16384É67Ê0Ë2049ÏGtkWidget
+DEBUGÌ16384É34Ê0Ë690Ïint
+FullscreenWindowÌ16384É68Ê0Ë2085ÏGtkWidget
+LATS_RC_DIRÌ16384É57Ê0Ë1733Ïchar
+LATS_RC_FILEÌ16384É58Ê0Ë1769Ïchar
+LATS_RC_THUMB_DIRÌ16384É59Ê0Ë1803Ïchar
+LATS_RC_THUMB_IN_HOMEÌ16384É61Ê0Ë1888Ïint
+LATS_THUMB_DIRÌ16384É60Ê0Ë1847Ïchar
+MainWindowÌ16384É65Ê0Ë2000ÏGtkWidget
+PrefsWindowÌ16384É66Ê0Ë2024ÏGtkWidget
+check_color_aÌ16384É42Ê0Ë919Ïguint32
+check_color_autoÌ16384É48Ê0Ë1258Ïint
+check_color_auto_routineÌ16384É49Ê0Ë1288Ïint
+check_color_bÌ16384É43Ê0Ë971Ïguint32
+check_color_out_aÌ16384É44Ê0Ë1022Ïguint32
+check_color_out_bÌ16384É45Ê0Ë1102Ïguint32
+check_color_out_cut_off_factorÌ16384É46Ê0Ë1182Ïfloat
+check_color_out_useÌ16384É47Ê0Ë1225Ïint
+check_sizeÌ16384É41Ê0Ë897Ïint
+filedisplay_as_iconsÌ16384É52Ê0Ë1467Ïint
+hide_unusable_view_buttonsÌ16384É50Ê0Ë1323Ïint
+loaded_imageÌ16384É31Ê0Ë542ÏGdkPixbuf
+loaded_scaled_imageÌ16384É32Ê0Ë602ÏGdkPixbuf
+mainÌ16Í(int argc, char *argv[])É74Ê0Ë2307Ïint
+max_thumb_sizeÌ16384É37Ê0Ë756Ïint
+mutexÌ16384É63Ê0Ë1924Ïpthread_mutex_t
+no_thumb_sizeÌ16384É38Ê0Ë783Ïint
+pics_per_row_on_sidebarÌ16384É53Ê0Ë1543Ïint
+render_qualityÌ16384É40Ê0Ë854Ïint
+show_statusbar_in_fullscreenmodeÌ16384É55Ê0Ë1647Ïint
+task_queueÌ16384É70Ê0Ë2116Ïint
+thread_countÌ16384É71Ê0Ë2200Ïint
+thumb_render_qualityÌ16384É39Ê0Ë808Ïint
+thumb_sizeÌ16384É36Ê0Ë733Ïint
+thumbnailsÌ16384É35Ê0Ë709Ïint
+/home/oktay/Anjuta/Projects/lats/src/imageview.cÌ262144Ñ1017147345
+BgColorSelectionDialogÌ32768É46Ê0Ë1013ÏGtkWidget
+FullscreenWindowÌ32768É47Ê0Ë1056ÏGtkWidget
+MainWindowÌ32768É44Ê0Ë950ÏGtkWidget
+PrefsWindowÌ32768É45Ê0Ë981ÏGtkWidget
+check_color_aÌ32768É33Ê0Ë635Ïguint32
+check_color_autoÌ32768É39Ê0Ë846Ïint
+check_color_auto_routineÌ32768É40Ê0Ë876Ïint
+check_color_bÌ32768É34Ê0Ë666Ïguint32
+check_color_out_aÌ32768É35Ê0Ë697Ïguint32
+check_color_out_bÌ32768É36Ê0Ë732Ïguint32
+check_color_out_cut_off_factorÌ32768É37Ê0Ë767Ïfloat
+check_color_out_useÌ32768É38Ê0Ë813Ïint
+check_for_new_image_selectionÌ16Í( char *filename )É51Ê0Ë1148Ïint
+check_sizeÌ32768É32Ê0Ë611Ïint
+filedisplay_as_iconsÌ32768É42Ê0Ë915Ïint
+load_imageÌ16Í( char *filename )É71Ê0Ë1466Ïvoid
+loaded_imageÌ32768É28Ê0Ë435ÏGdkPixbuf
+loaded_scaled_imageÌ32768É29Ê0Ë495ÏGdkPixbuf
+redraw_bgcolorpixmapÌ16Í( gpointer user_data )É1169Ê0Ë51165Ïvoid
+render_qualityÌ32768É31Ê0Ë583Ïint
+view_imageÌ16Í( char *filename, gpointer user_data )É88Ê0Ë1926Ïvoid
+zoom_pictureÌ16Í( double value, gpointer user_data )É1124Ê0Ë49829Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/tasks.hÌ262144Ñ1017048341
+image_server_threadÌ1024Í( void )É31Ê1Ë419Ïvoid
+start_image_serverÌ1024Í( void )É28Ê1Ë383Ïvoid
+task_add_to_queueÌ1024Í( char *name )É10Ê1Ë104Ïint
+task_already_exists_in_queueÌ1024Í( char *name )É13Ê1Ë144Ïint
+task_clear_queueÌ1024Í( void )É4Ê1Ë25Ïvoid
+task_get_last_in_queueÌ1024Í( int tasknum )É22Ê1Ë290Ïint
+task_get_number_of_typeÌ1024Í( char *name )É7Ê1Ë58Ïint
+task_how_many_in_queueÌ1024Í( int tasknum )É25Ê1Ë336Ïint
+task_remove_all_from_queueÌ1024Í( char *name )É19Ê1Ë241Ïint
+task_remove_from_queueÌ1024Í( int tasknum )É16Ê1Ë195Ïint
+wait_for_services_to_quitÌ1024Í( void )É34Ê1Ë456Ïvoid
+/home/oktay/Anjuta/Projects/lats/src/tasks.cÌ262144Ñ1017148193
+BgColorSelectionDialogÌ32768É32Ê0Ë737ÏGtkWidget
+FullscreenWindowÌ32768É33Ê0Ë780ÏGtkWidget
+MainWindowÌ32768É30Ê0Ë674ÏGtkWidget
+PrefsWindowÌ32768É31Ê0Ë705ÏGtkWidget
+image_server_threadÌ16Í( void )É192Ê0Ë3561Ïvoid
+mutexÌ32768É28Ê0Ë591Ïpthread_mutex_t
+start_image_serverÌ16Í( void )É181Ê0Ë3329Ïvoid
+task_add_to_queueÌ16Í( char *name )É82Ê0Ë1854Ïint
+task_already_exists_in_queueÌ16Í( char *name )É104Ê0Ë2291Ïint
+task_clear_queueÌ16Í( void )É39Ê0Ë949Ïvoid
+task_get_last_in_queueÌ16Í( int tasknum )É149Ê0Ë2897Ïint
+task_get_number_of_typeÌ16Í( char *name )É58Ê0Ë1397Ïint
+task_how_many_in_queueÌ16Í( int tasknum )É165Ê0Ë3119Ïint
+task_queueÌ32768É35Ê0Ë818Ïint
+task_remove_all_from_queueÌ16Í( char *name )É129Ê0Ë2631Ïint
+task_remove_from_queueÌ16Í( int tasknum )É121Ê0Ë2516Ïint
+thread_countÌ32768É36Ê0Ë880Ïint
+wait_for_services_to_quitÌ16Í( void )É232Ê0Ë4411Ïvoid

@@ -1,0 +1,196 @@
+/*
+ * Datei für übersetzbare Zeichenketten, erzeugt durch Glade.
+ * Fügen Sie diese Datei zur POTFILES.in Ihres Projektes hinzu.
+ * Compilieren Sie sie NICHT als Teil Ihrer Anwendung.
+ */
+
+gchar *s = N_("Look at the stars");
+gchar *s = N_("_New File");
+gchar *s = N_("toggle fullscreen");
+gchar *s = N_("maximizes mainwindow and hides window-decorations");
+gchar *s = N_("toggle desktop-view");
+gchar *s = N_("New file");
+gchar *s = N_("New");
+gchar *s = N_("Open file");
+gchar *s = N_("Open");
+gchar *s = N_("Save file");
+gchar *s = N_("Save");
+gchar *s = N_("Recreate thumbnails in current directory");
+gchar *s = N_("Recreate thumbnails");
+gchar *s = N_("view");
+gchar *s = N_("file view");
+gchar *s = N_("file view");
+gchar *s = N_("splitted view");
+gchar *s = N_("splitted view");
+gchar *s = N_("image view");
+gchar *s = N_("image view");
+gchar *s = N_("~/");
+gchar *s = N_("directory");
+gchar *s = N_("usable content");
+gchar *s = N_("details");
+gchar *s = N_("images");
+gchar *s = N_("enlarge icon list");
+gchar *s = N_("enlarge directory list");
+gchar *s = N_("image");
+gchar *s = N_("name");
+gchar *s = N_("size");
+gchar *s = N_("date");
+gchar *s = N_("iconlist");
+gchar *s = N_("use left mousebutton to select; use middle mousebutton to view in fullscreen-mode");
+gchar *s = N_("iconview");
+gchar *s = N_("filesearch");
+gchar *s = N_("actual shown image statistics");
+gchar *s = N_("element");
+gchar *s = N_("value");
+gchar *s = N_("statistics");
+gchar *s = N_("bg");
+gchar *s = N_("use defined color?");
+gchar *s = N_("tiles");
+gchar *s = N_("zoom");
+gchar *s = N_("-25%");
+gchar *s = N_(" -25% ");
+gchar *s = N_("+25%");
+gchar *s = N_(" +25% ");
+gchar *s = N_("1:1");
+gchar *s = N_("autozoom");
+gchar *s = N_("view");
+gchar *s = N_("file view");
+gchar *s = N_("file view");
+gchar *s = N_("splitted view");
+gchar *s = N_("splitted view");
+gchar *s = N_("image view");
+gchar *s = N_("image view");
+gchar *s = N_("click on a thumbnail to a view page");
+gchar *s = N_("%P %%");
+gchar *s = N_("imagedisplay");
+gchar *s = N_("use left mousebutton to select; use middle mousebutton to view in fullscreen-mode");
+gchar *s = N_("     ");
+gchar *s = N_("view");
+gchar *s = N_("file view");
+gchar *s = N_("file view");
+gchar *s = N_("splitted view");
+gchar *s = N_("splitted view");
+gchar *s = N_("image view");
+gchar *s = N_("image view");
+gchar *s = N_("iconview");
+gchar *s = N_("file %V of %U");
+gchar *s = N_("page %V of %U");
+gchar *s = N_("What you see here is my first try in writing a more or less complex picture-viewer. You can view your icons or images with different backgroundcolors, too. So testing out icons against different environments should be easier now :) If you find any bugs or suggestions for me doing a better job - tell me ! :) Thnx.");
+gchar *s = N_("Settings");
+gchar *s = N_("where should I save your configuration?");
+gchar *s = N_("where to save your main rc-file");
+gchar *s = N_("~/.lats/");
+gchar *s = N_("the name of your main rc-file");
+gchar *s = N_("config");
+gchar *s = N_("  load old settings  ");
+gchar *s = N_("  save settings  ");
+gchar *s = N_("  !reset to defaults!  ");
+gchar *s = N_("debugging");
+gchar *s = N_("print verbose messages to stdout?");
+gchar *s = N_(" yes, please do this !");
+gchar *s = N_("main");
+gchar *s = N_("click here if you want to see the changes");
+gchar *s = N_("redraw image");
+gchar *s = N_("choose render quality / interpolation  ( speed vs quality )");
+gchar *s = N_("nearest (fastest / worst)");
+gchar *s = N_("tiles");
+gchar *s = N_("bilinear (normal)");
+gchar *s = N_("hyper (slowest / superb but not always right)");
+gchar *s = N_("what DPI ( dots per inches ) do you prefer when rendering\n"
+              ".pdf ( Adobe Acrobat Reader ) or .ps ( PostScript ) files?\n"
+              "( 72 = poor, fast ; 150 = normal ; 300 = fine, slow )");
+gchar *s = N_("get DPI for displaying images from x-server");
+gchar *s = N_("use your own values for displaying images");
+gchar *s = N_("your values for width and height:");
+gchar *s = N_("x");
+gchar *s = N_("DPI");
+gchar *s = N_("  calibrate  ");
+gchar *s = N_("aspect-correction");
+gchar *s = N_("when not activated from the mainwindow this is the percentage\n"
+              "of scaling above which the automatic aspect-correction occurs\n"
+              "( I think a value of 100 should completely disable this feature :) )");
+gchar *s = N_("rendering");
+gchar *s = N_("if your picture supplies transparency how should the background be drawn?");
+gchar *s = N_("since we use some checkered-pattern-style as we look through the picture, you can somehow change its appearance. a and b are for the picture itself (also as transparency-base), out a and out b are for the area around the picture. they will be substracted from a and b. values range from 0 to 255.");
+gchar *s = N_("checker color out b ( will be substracted from above )");
+gchar *s = N_("checker color b ( grey value )");
+gchar *s = N_("checker color out a ( will be substracted from above )");
+gchar *s = N_("checker color a ( grey value )");
+gchar *s = N_("automatic background colordetection");
+gchar *s = N_("if you enable this stuff on the following tab, we'll use one of these\n"
+              "routines to gather the more or less correct background colors, so that\n"
+              "your images look right. these aren't finished, yet - help wanted!");
+gchar *s = N_("additive color detection ( gets middle of red/green/blue of 4 points )");
+gchar *s = N_("minimum of colors ( gets minimum color of 4 points )");
+gchar *s = N_("brightness ( looks for darkest and brightest colors of 4 points )");
+gchar *s = N_("the two above + scan of overall picture brightness ;-)");
+gchar *s = N_("density ");
+gchar *s = N_("alter average pixel value +/-");
+gchar *s = N_("do you want to see checkers on this, too?  ( if supported )");
+gchar *s = N_("yepp!");
+gchar *s = N_("transparency and background");
+gchar *s = N_("other stuff");
+gchar *s = N_("fade out borders around image?");
+gchar *s = N_("how fast should the color fade to grey, when you select\n"
+              "a color in the color-selection-dialog? a 1 is normal.\n"
+              "everything to 0 is faster and above 1 slower.");
+gchar *s = N_("if you don't activate background coloration explicitly, should the background color be guessed automatically? ( FIXME / it's getting better - help wanted!! )");
+gchar *s = N_("hide statusbar which displays image-details ? \n"
+              "( when in fullscreen-mode )");
+gchar *s = N_("but show up while loading?");
+gchar *s = N_("Yes, hide statusbar");
+gchar *s = N_("Yes, while loading");
+gchar *s = N_("Yes, darken\n"
+              "the borders!");
+gchar *s = N_("Yes, please try!");
+gchar *s = N_("misc");
+gchar *s = N_("image viewer");
+gchar *s = N_("where to save your thumbnails");
+gchar *s = N_("relative to your rc-file-directory ( if you choose\n"
+              "to save them into the main rc-dir )");
+gchar *s = N_("thumbnails");
+gchar *s = N_("relative to the current directory ( if you choose\n"
+              "to save them into the dir where the pics are )");
+gchar *s = N_(".thumbnails");
+gchar *s = N_("current size allocated \n"
+              "for thumbnails in rc-dir");
+gchar *s = N_("click this button ->");
+gchar *s = N_("update\n"
+              "result");
+gchar *s = N_("delete\n"
+              "thumbnails");
+gchar *s = N_("choose render quality / interpolation  ( speed vs quality )");
+gchar *s = N_("nearest (fastest / worst)");
+gchar *s = N_("tiles");
+gchar *s = N_("bilinear (normal)");
+gchar *s = N_("hyper (slowest / superb but not always right)");
+gchar *s = N_("thumbnails");
+gchar *s = N_("file-type filtering rules");
+gchar *s = N_("don't show audio-files");
+gchar *s = N_("don't show image-files");
+gchar *s = N_("don't show movie-files");
+gchar *s = N_("don't show leading-dot files? (hidden files)");
+gchar *s = N_("hide non multimedia content (apps, text-files etc.)");
+gchar *s = N_("enable file-type filtering?\n"
+              "( you have to reload the current dir\n"
+              " in order to see a difference ! )");
+gchar *s = N_("file-filter");
+gchar *s = N_("notice: everything you change here will take affect immediately! it really depends on what routine it belongs to and what you do :) don't forget to save!");
+gchar *s = N_("click here to close the settings window");
+gchar *s = N_("close");
+gchar *s = N_("choose background color");
+gchar *s = N_("apply");
+gchar *s = N_("close");
+gchar *s = N_("Look at the stars in fullscreen-mode");
+gchar *s = N_("Wait a moment...");
+gchar *s = N_("shutdown in progress...");
+gchar *s = N_("%P %%");
+gchar *s = N_("Look at the stars fullscreen-progressbar");
+gchar *s = N_("file %V of %U");
+gchar *s = N_("Calibrate...");
+gchar *s = N_("vertical");
+gchar *s = N_("horizontal");
+gchar *s = N_("please measure the rulers and enter their lengths below...");
+gchar *s = N_("entered as...");
+gchar *s = N_("inches");
+gchar *s = N_("millimeters");

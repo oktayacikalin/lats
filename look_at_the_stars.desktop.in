@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Look at the stars
+Comment=No comment
+Exec=lats
+Icon=@PACKAGE_PIXMAPS_DIR@/look_at_the_stars_icon.png
+Terminal=false
+MultipleArgs=false
+Type=Application
+

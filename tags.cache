@@ -1,0 +1,222 @@
+# **************************************************************************
+# *********** DO NOT EDIT OR RENAME THIS FILE *****************
+# ******************* Created by  Anjuta ********************************
+# ***************** Anjuta Tags cache file ********************
+# **************************************************************************
+
+Anjuta: 0.1.7
+No of Tags: 192
+BgColorSelectionDialog 5 76 src/main.c
+DEBUG 5 38 src/main.c
+FullscreenWindow 5 77 src/main.c
+FullscreenWindowProgressbar 5 78 src/main.c
+LATS_RC_DIR 5 68 src/main.c
+LATS_RC_FILE 5 69 src/main.c
+LATS_RC_THUMB_DIR 5 70 src/main.c
+LATS_RC_THUMB_IN_HOME 5 72 src/main.c
+LATS_THUMB_DIR 5 71 src/main.c
+MainWindow 5 74 src/main.c
+PrefsWindow 5 75 src/main.c
+ShutdownWindow 5 79 src/main.c
+add_vmbutton_series_to_toolbar 0 252 src/toolbars.c
+add_zoom_buttons_to_toolbar 0 34 src/toolbars.c
+check_color_a 5 46 src/main.c
+check_color_auto 5 52 src/main.c
+check_color_auto_routine 5 53 src/main.c
+check_color_b 5 47 src/main.c
+check_color_out_a 5 48 src/main.c
+check_color_out_b 5 49 src/main.c
+check_color_out_cut_off_factor 5 50 src/main.c
+check_color_out_use 5 51 src/main.c
+check_for_new_image_selection 0 54 src/imageview.c
+check_size 5 45 src/main.c
+create_MainWindow 0 77 src/interface.c
+create_about1 0 1476 src/interface.c
+create_colorselectiondialog1 0 2878 src/interface.c
+create_dummy_pixmap 0 58 src/support.c
+create_fullscreenwindow 0 2923 src/interface.c
+create_fullscreenwindowprogressbar 0 3043 src/interface.c
+create_image 0 130 src/support.c
+create_pixmap 0 84 src/support.c
+create_prefswindow 0 1496 src/interface.c
+create_shutdownwindow 0 2993 src/interface.c
+dirname 5 51 src/imagelist.c
+dummy_pixmap_xpm 5 47 src/support.c
+edit1_menu_uiinfo 5 31 src/interface.c
+file1_menu_uiinfo 5 20 src/interface.c
+file_filter 0 75 src/imagelist.c
+file_filter_hide_audio 5 66 src/main.c
+file_filter_hide_dot_files 5 62 src/main.c
+file_filter_hide_images 5 64 src/main.c
+file_filter_hide_movies 5 65 src/main.c
+file_filter_hide_non_multimedia_files 5 63 src/main.c
+file_filter_use 5 61 src/main.c
+filedisplay_as_icons 5 56 src/main.c
+filename 5 52 src/imagelist.c
+get_blue_from_rgb_value 0 60 src/colors.c
+get_check_color_a 0 111 src/colors.c
+get_check_color_auto 0 139 src/colors.c
+get_check_color_b 0 118 src/colors.c
+get_check_color_out_a 0 125 src/colors.c
+get_check_color_out_b 0 132 src/colors.c
+get_check_color_out_cut_off_factor 0 153 src/colors.c
+get_check_color_out_use 0 146 src/colors.c
+get_green_from_rgb_value 0 43 src/colors.c
+get_pixel_from_loaded_image 0 160 src/colors.c
+get_red_from_rgb_value 0 25 src/colors.c
+get_thumbnail 0 163 src/imagelist.c
+get_widget 6 21 src/support.h
+go_spider_go 0 1117 src/imagelist.c
+go_spider_thread 0 1079 src/imagelist.c
+go_to_next_image_in_list 0 863 src/imagelist.c
+go_to_previous_image_in_list 0 815 src/imagelist.c
+help1_menu_uiinfo 5 60 src/interface.c
+hide_unusable_view_buttons 5 54 src/main.c
+image_server_thread 0 190 src/tasks.c
+image_server_wait_for_final_entry 0 170 src/tasks.c
+isdir 0 129 src/imagelist.c
+isimage 0 114 src/imagelist.c
+islink 0 148 src/imagelist.c
+load_image 0 74 src/imageview.c
+loaded_image 5 35 src/main.c
+loaded_scaled_image 5 36 src/main.c
+lookup_widget 0 23 src/support.c
+main 0 82 src/main.c
+max_thumb_size 5 41 src/main.c
+menubar1_uiinfo 5 66 src/interface.c
+no_thumb_size 5 42 src/main.c
+on_MainWindow_delete_event 0 212 src/callbacks.c
+on_MainWindow_destroy_event 0 222 src/callbacks.c
+on_MainWindow_key_press_event 0 1070 src/callbacks.c
+on_MainWindow_key_release_event 0 1092 src/callbacks.c
+on_about1_activate 0 194 src/callbacks.c
+on_autozoom_toggled 0 600 src/callbacks.c
+on_bgcolorok_button1_clicked 0 757 src/callbacks.c
+on_bgcoloruse_toggled 0 556 src/callbacks.c
+on_bgcolorvp_button_press_event 0 773 src/callbacks.c
+on_bgtiles_toggled 0 569 src/callbacks.c
+on_button9_clicked 0 243 src/callbacks.c
+on_clear1_activate 0 169 src/callbacks.c
+on_combo_entry1_activate 0 232 src/callbacks.c
+on_copy1_activate 0 153 src/callbacks.c
+on_cut1_activate 0 145 src/callbacks.c
+on_dirlist_select_row 0 252 src/callbacks.c
+on_exit0_activate 0 204 src/callbacks.c
+on_exit1_activate 0 137 src/callbacks.c
+on_frame1movebutton1_clicked 0 1245 src/callbacks.c
+on_frame1movebutton2_clicked 0 1268 src/callbacks.c
+on_frame1radiobutton1_toggled 0 1106 src/callbacks.c
+on_frame1radiobutton2_toggled 0 1114 src/callbacks.c
+on_fullscreenwindow_button_press_event 0 1146 src/callbacks.c
+on_fullscreenwindow_hide 0 1168 src/callbacks.c
+on_fullscreenwindow_show 0 1179 src/callbacks.c
+on_homebutton_clicked 0 402 src/callbacks.c
+on_iconlist_select_icon 0 914 src/callbacks.c
+on_imagedisplay_switch_page 0 968 src/callbacks.c
+on_imageiconview_size_allocate 0 793 src/callbacks.c
+on_imagelist_select_row 0 338 src/callbacks.c
+on_keepaspect_toggled 0 627 src/callbacks.c
+on_new_file1_activate 0 105 src/callbacks.c
+on_open1_activate 0 113 src/callbacks.c
+on_packer1_size_allocate 0 803 src/callbacks.c
+on_paste1_activate 0 161 src/callbacks.c
+on_preferences1_activate 0 185 src/callbacks.c
+on_prefsimageradiobutton1_toggled 0 721 src/callbacks.c
+on_prefsimageradiobutton2_toggled 0 730 src/callbacks.c
+on_prefsimageradiobutton3_toggled 0 739 src/callbacks.c
+on_prefsimageradiobutton4_toggled 0 748 src/callbacks.c
+on_prefsimagereload_clicked 0 711 src/callbacks.c
+on_prefsmainentry1_activate 0 858 src/callbacks.c
+on_prefsmainentry2_activate 0 867 src/callbacks.c
+on_prefsmaintogglebutton1_toggled 0 785 src/callbacks.c
+on_prefsthumbclearbutton_clicked 0 1294 src/callbacks.c
+on_prefsthumbentry1_activate 0 876 src/callbacks.c
+on_prefsthumbentry2_activate 0 885 src/callbacks.c
+on_prefsthumbradiobutton1_toggled 0 822 src/callbacks.c
+on_prefsthumbradiobutton2_toggled 0 831 src/callbacks.c
+on_prefsthumbradiobutton3_toggled 0 840 src/callbacks.c
+on_prefsthumbradiobutton4_toggled 0 849 src/callbacks.c
+on_prefsthumbradiobutton5_toggled 0 894 src/callbacks.c
+on_prefsthumbradiobutton6_toggled 0 904 src/callbacks.c
+on_prefsthumbupdatebutton_clicked 0 1319 src/callbacks.c
+on_properties1_activate 0 177 src/callbacks.c
+on_save1_activate 0 121 src/callbacks.c
+on_save_as1_activate 0 129 src/callbacks.c
+on_scrolledwindow6_button_press_event 0 1124 src/callbacks.c
+on_scrolledwindow6_size_allocate 0 641 src/callbacks.c
+on_scrolledwindow7_size_allocate 0 987 src/callbacks.c
+on_scrolledwindow8_size_allocate 0 1020 src/callbacks.c
+on_toggle_fullscreen1_activate 0 1328 src/callbacks.c
+on_vmbutton1_clicked 0 421 src/callbacks.c
+on_vmbutton2_clicked 0 463 src/callbacks.c
+on_vmbutton3_clicked 0 529 src/callbacks.c
+on_zoom100_clicked 0 591 src/callbacks.c
+on_zoom100_toggled 0 698 src/callbacks.c
+on_zoomentry_changed 0 582 src/callbacks.c
+on_zoomm25_clicked 0 664 src/callbacks.c
+on_zoomp25_clicked 0 681 src/callbacks.c
+pics_per_row_on_sidebar 5 57 src/main.c
+pixbuf_copy_mirror 0 222 src/pixbuf_util.c
+pixbuf_copy_rotate_90 0 164 src/pixbuf_util.c
+pixbuf_to_file_as_png 0 37 src/pixbuf_util.c
+printd 0 68 src/callbacks.c
+quit_lats 0 75 src/callbacks.c
+read_dir_from_combo 0 758 src/imagelist.c
+read_dir_from_combo_start_thread 0 743 src/imagelist.c
+read_dir_from_combo_thread 0 398 src/imagelist.c
+redraw_bgcolorpixmap 0 1383 src/imageview.c
+refresh_screen 0 87 src/callbacks.c
+render_quality 5 44 src/main.c
+scale_color 0 93 src/colors.c
+settings1_menu_uiinfo 5 54 src/interface.c
+show_rgb_from_value 0 75 src/colors.c
+show_statusbar_in_fullscreenmode 5 59 src/main.c
+spider_gather_dirinfo 0 973 src/imagelist.c
+spider_gather_subdirinfo 0 913 src/imagelist.c
+start_image_server 0 159 src/tasks.c
+task_add_to_queue 0 61 src/tasks.c
+task_already_exists_in_queue 0 83 src/tasks.c
+task_clear_queue 0 41 src/tasks.c
+task_get_last_in_queue 0 129 src/tasks.c
+task_how_many_in_queue 0 143 src/tasks.c
+task_queue 5 37 src/tasks.c
+task_remove_all_from_queue 0 109 src/tasks.c
+task_remove_from_queue 0 99 src/tasks.c
+text_from_size 0 12 src/importedfuncs.c
+text_from_time 0 74 src/importedfuncs.c
+text_from_var 0 87 src/importedfuncs.c
+thread_count 5 38 src/tasks.c
+thumb_render_quality 5 43 src/main.c
+thumb_size 5 40 src/main.c
+thumbnails 5 39 src/main.c
+update_screen 0 96 src/callbacks.c
+view1_menu_uiinfo 5 42 src/interface.c
+view_image 0 158 src/imageview.c
+vmbutton_disable 0 222 src/toolbars.c
+vmbutton_enable 0 237 src/toolbars.c
+vmbutton_hide 0 192 src/toolbars.c
+vmbutton_show 0 207 src/toolbars.c
+wait_for_services_to_quit 0 277 src/tasks.c
+zoom_picture 0 1339 src/imageview.c
+No of Tags Files: 21
+src/callbacks.c 1023800609,000000
+src/callbacks.h 1023779776,000000
+src/colors.c 1023779776,000000
+src/colors.h 1023779776,000000
+src/imagelist.c 1023800609,000000
+src/imagelist.h 1023800609,000000
+src/imageview.c 1023800609,000000
+src/imageview.h 1023779776,000000
+src/importedfuncs.c 1023779776,000000
+src/importedfuncs.h 1023779776,000000
+src/interface.c 1023800609,000000
+src/interface.h 1023800609,000000
+src/main.c 1023779776,000000
+src/pixbuf_util.c 1023779776,000000
+src/pixbuf_util.h 1023779776,000000
+src/support.c 1023800609,000000
+src/support.h 1023800609,000000
+src/tasks.c 1023779776,000000
+src/tasks.h 1023779776,000000
+src/toolbars.c 1023779776,000000
+src/toolbars.h 1023779776,000000
