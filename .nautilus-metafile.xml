@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<directory>
+  <file name="Look_at_the_stars.prj" default_application="35ddeaef-af75-43fb-8761-000be07f9f2a" default_action_type="application" custom_icon="file:///usr/share/pixmaps/anjuta/applogo.png">
+    <short_list_application_add id="35ddeaef-af75-43fb-8761-000be07f9f2a"/>
+  </file>
+  <file name="look_at_the_stars.desktop" icon_position="444,475"/>
+</directory>

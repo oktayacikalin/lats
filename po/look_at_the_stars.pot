@@ -1,0 +1,482 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/callbacks.c:915
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2002-03-08 19:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/interface.c:22
+msgid "_Neue Datei"
+msgstr ""
+
+#: src/interface.c:186
+msgid "Look at the stars"
+msgstr ""
+
+#: src/interface.c:350
+msgid "Neu"
+msgstr ""
+
+#: src/interface.c:351
+msgid "Neue Datei"
+msgstr ""
+
+#: src/interface.c:362
+msgid "Öffnen"
+msgstr ""
+
+#: src/interface.c:363
+msgid "Datei öffnen"
+msgstr ""
+
+#: src/interface.c:374
+msgid "Speichern"
+msgstr ""
+
+#: src/interface.c:375
+msgid "Datei speichern"
+msgstr ""
+
+#: src/interface.c:386
+msgid "Auffrischen"
+msgstr ""
+
+#: src/interface.c:416 src/interface.c:993 src/interface.c:1166
+msgid "View"
+msgstr ""
+
+#: src/interface.c:428 src/interface.c:429 src/interface.c:1005
+#: src/interface.c:1006 src/interface.c:1178 src/interface.c:1179
+#: src/toolbars.c:221 src/toolbars.c:222
+msgid "file view"
+msgstr ""
+
+#: src/interface.c:440 src/interface.c:441 src/interface.c:1020
+#: src/interface.c:1021 src/interface.c:1193 src/interface.c:1194
+#: src/toolbars.c:241 src/toolbars.c:242
+msgid "splitted view"
+msgstr ""
+
+#: src/interface.c:452 src/interface.c:453 src/interface.c:1035
+#: src/interface.c:1036 src/interface.c:1208 src/interface.c:1209
+#: src/toolbars.c:261 src/toolbars.c:262
+msgid "image view"
+msgstr ""
+
+#: src/interface.c:536
+msgid "~/"
+msgstr ""
+
+#: src/interface.c:557
+msgid "directories found here"
+msgstr ""
+
+#: src/interface.c:578
+msgid "show as list"
+msgstr ""
+
+#: src/interface.c:587
+msgid "show as icons"
+msgstr ""
+
+#: src/interface.c:625
+msgid "image"
+msgstr ""
+
+#: src/interface.c:632
+msgid "name"
+msgstr ""
+
+#: src/interface.c:639
+msgid "size"
+msgstr ""
+
+#: src/interface.c:646
+msgid "date"
+msgstr ""
+
+#: src/interface.c:653
+msgid "iconlist"
+msgstr ""
+
+#: src/interface.c:685 src/interface.c:1219
+msgid "iconview"
+msgstr ""
+
+#: src/interface.c:692
+msgid "filesearch"
+msgstr ""
+
+#: src/interface.c:715
+msgid "actual shown image statistics"
+msgstr ""
+
+#: src/interface.c:743
+msgid "element"
+msgstr ""
+
+#: src/interface.c:751
+msgid "value"
+msgstr ""
+
+#: src/interface.c:759
+msgid "statistics"
+msgstr ""
+
+#: src/interface.c:820
+msgid "Bg"
+msgstr ""
+
+#: src/interface.c:854
+msgid "aktiv? "
+msgstr ""
+
+#: src/interface.c:886
+msgid "Zoom"
+msgstr ""
+
+#: src/interface.c:917 src/toolbars.c:54
+#, c-format
+msgid " -25% "
+msgstr ""
+
+#: src/interface.c:918 src/toolbars.c:55
+#, c-format
+msgid "-25%"
+msgstr ""
+
+#: src/interface.c:931 src/toolbars.c:71
+#, c-format
+msgid " +25% "
+msgstr ""
+
+#: src/interface.c:932 src/toolbars.c:72
+#, c-format
+msgid "+25%"
+msgstr ""
+
+#: src/interface.c:945 src/toolbars.c:88
+msgid "1:1"
+msgstr ""
+
+#: src/interface.c:959 src/toolbars.c:105
+msgid "autozoom"
+msgstr ""
+
+#: src/interface.c:1070
+msgid "imagedisplay"
+msgstr ""
+
+#: src/interface.c:1137
+msgid "     "
+msgstr ""
+
+#: src/interface.c:1364
+msgid ""
+"Dies ist mein erster Versuch einen Picture-Viewer zu schreiben und ich habe "
+"einiges an Anforderungen an mein Programm :) Hoffentlich schaffe ich es!"
+msgstr ""
+
+#: src/interface.c:1489
+msgid "Settings"
+msgstr ""
+
+#: src/interface.c:1515
+msgid "where should I save your configuration?"
+msgstr ""
+
+#: src/interface.c:1534
+msgid "where to save your main rc-file"
+msgstr ""
+
+#: src/interface.c:1552
+msgid "~/.lats/"
+msgstr ""
+
+#: src/interface.c:1554
+msgid "the name of your main rc-file"
+msgstr ""
+
+#: src/interface.c:1572
+msgid "config"
+msgstr ""
+
+#: src/interface.c:1584
+msgid "  load old settings  "
+msgstr ""
+
+#: src/interface.c:1594
+msgid "  save settings  "
+msgstr ""
+
+#: src/interface.c:1604
+msgid "  !reset to defaults!  "
+msgstr ""
+
+#: src/interface.c:1614
+msgid "debugging"
+msgstr ""
+
+#: src/interface.c:1632
+msgid "print verbose messages to stdout?"
+msgstr ""
+
+#: src/interface.c:1642 src/interface.c:2018
+msgid "yepp!"
+msgstr ""
+
+#: src/interface.c:1651
+msgid "main"
+msgstr ""
+
+#: src/interface.c:1676 src/interface.c:2255
+msgid "choose render quality / interpolation  ( speed vs quality )"
+msgstr ""
+
+#: src/interface.c:1693 src/interface.c:2274
+msgid "nearest (fastest / worst)"
+msgstr ""
+
+#: src/interface.c:1701 src/interface.c:2282
+msgid "tiles"
+msgstr ""
+
+#: src/interface.c:1709 src/interface.c:2290
+msgid "bilinear (normal)"
+msgstr ""
+
+#: src/interface.c:1718 src/interface.c:2298
+msgid "hyper (slowest / superb but not always right)"
+msgstr ""
+
+#: src/interface.c:1726
+msgid "render quality"
+msgstr ""
+
+#: src/interface.c:1740
+msgid ""
+"if your picture supplies transparency how should the background be drawn?"
+msgstr ""
+
+#: src/interface.c:1756
+msgid ""
+"since we use some checkered-pattern-style as we look through the picture, "
+"you can somehow change its appearance. a and b are for the picture itself "
+"(also as transparency-base), out a and out b are for the area around the "
+"picture. they will be substracted from a and b. values range from 0 to 255."
+msgstr ""
+
+#: src/interface.c:1806
+msgid "checker color out b ( will be substracted from above )"
+msgstr ""
+
+#: src/interface.c:1816
+msgid "checker color b ( grey value )"
+msgstr ""
+
+#: src/interface.c:1826
+msgid "checker color out a ( will be substracted from above )"
+msgstr ""
+
+#: src/interface.c:1836
+msgid "checker color a ( grey value )"
+msgstr ""
+
+#: src/interface.c:1866
+msgid "automatic background colordetection"
+msgstr ""
+
+#: src/interface.c:1883
+msgid ""
+"if you enable this stuff on the following tab, we'll use one of these\n"
+"routines to gather the more or less correct background colors, so that\n"
+"your images look right. these aren't finished, yet - help wanted!"
+msgstr ""
+
+#: src/interface.c:1904
+msgid "additive color detection ( gets middle of red/green/blue of 4 points )"
+msgstr ""
+
+#: src/interface.c:1912
+msgid "minimum of colors ( gets minimum color of 4 points )"
+msgstr ""
+
+#: src/interface.c:1920
+msgid "brightness ( looks for darkest and brightest colors of 4 points )"
+msgstr ""
+
+#: src/interface.c:1935
+msgid "the two above + scan of overall picture brightness ;-)"
+msgstr ""
+
+#: src/interface.c:1958
+msgid "density "
+msgstr ""
+
+#: src/interface.c:1981
+msgid "alter average pixel value +/-"
+msgstr ""
+
+#: src/interface.c:2011
+msgid "do you want to see checkers on this, too?  ( if supported )"
+msgstr ""
+
+#: src/interface.c:2025
+msgid "transparency and background"
+msgstr ""
+
+#: src/interface.c:2032
+msgid "other background related stuff"
+msgstr ""
+
+#: src/interface.c:2049
+msgid ""
+"if you don't activate background coloration explicitly, should the "
+"background color be guessed automatically? (FIXME / only some colors are "
+"guessed right)"
+msgstr ""
+
+#: src/interface.c:2092
+msgid ""
+"Yes, darken\n"
+"the borders!"
+msgstr ""
+
+#: src/interface.c:2101
+msgid "Yes, please try!"
+msgstr ""
+
+#: src/interface.c:2111
+msgid "fade out borders around image?"
+msgstr ""
+
+#: src/interface.c:2121
+msgid ""
+"how fast should the color fade to grey, when you select\n"
+"a color in the color-selection-dialog? a 1 is normal.\n"
+"everything to 0 is faster and above 1 slower."
+msgstr ""
+
+#: src/interface.c:2132
+msgid "misc"
+msgstr ""
+
+#: src/interface.c:2139
+msgid "redraw image"
+msgstr ""
+
+#: src/interface.c:2149
+msgid "click here if you want to see the changes"
+msgstr ""
+
+#: src/interface.c:2151
+msgid "image viewer"
+msgstr ""
+
+#: src/interface.c:2166
+msgid "where to save your thumbnails"
+msgstr ""
+
+#: src/interface.c:2215
+msgid ""
+"relative to your rc-file-directory ( if you choose\n"
+"to save them into the main rc-dir )"
+msgstr ""
+
+#: src/interface.c:2225
+msgid ""
+"relative to the current directory ( if you choose\n"
+"to save them into the dir where the pics are )"
+msgstr ""
+
+#: src/interface.c:2243
+msgid ".thumbnails"
+msgstr ""
+
+#: src/interface.c:2253 src/interface.c:2307
+msgid "thumbnails"
+msgstr ""
+
+#: src/interface.c:2314
+msgid ""
+"notice: everything you change here will take affect immediately! it really "
+"depends on what routine it belongs to and what you do :) don't forget to "
+"save!"
+msgstr ""
+
+#: src/interface.c:2324
+msgid "close"
+msgstr ""
+
+#: src/interface.c:2330
+msgid "click here to close the settings window"
+msgstr ""
+
+#: src/interface.c:2403
+msgid "choose background color"
+msgstr ""
+
+#: src/support.c:100 src/support.c:138
+#, c-format
+msgid "Couldn't find pixmap file: %s"
+msgstr ""
+
+#: src/support.c:116
+#, c-format
+msgid "Couldn't create pixmap from file: %s"
+msgstr ""
+
+#. if we need to switch to splitted view... 
+#: src/imageview.c:135
+msgid "Lade Bild aus Datei..."
+msgstr ""
+
+#: src/imageview.c:145
+msgid "Bild geladen... berechne Dimensionen..."
+msgstr ""
+
+#: src/imageview.c:150
+msgid "Lade Bild aus Cache..."
+msgstr ""
+
+#: src/imageview.c:815 src/imageview.c:973
+msgid "Bild dargestellt."
+msgstr ""
+
+#: src/imageview.c:824 src/imageview.c:837
+msgid "Erstelle Matrix..."
+msgstr ""
+
+#: src/imageview.c:862
+msgid "Scaliere und platziere Bild..."
+msgstr ""
+
+#: src/imageview.c:952
+msgid "Rendere Bild..."
+msgstr ""
+
+#: src/imageview.c:959
+msgid "Bild anzeigen..."
+msgstr ""
+
+#: src/imageview.c:983
+msgid "Kein Bild geladen."
+msgstr ""
+
+#: src/imagelist.c:271
+msgid "Suche Bilddateien..."
+msgstr ""
+
+#: src/imagelist.c:379
+msgid "Erstelle Voransicht der Bilder..."
+msgstr ""

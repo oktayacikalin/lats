@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<ccproject>
+	<classes>
+		<class is_struct="1"  name="binding" declfile="intl/gettextP.h" declline="186" endline="250">
+			<memberfunction name="if" declfile="intl/bindtextdom.c" declline="237" deffile="intl/bindtextdom.c" defline="237" flags="0" prototype=""/>
+			<memberfunction name="=" declfile="intl/bindtextdom.c" declline="262" deffile="intl/bindtextdom.c" defline="262" flags="0" prototype=""/>
+		</class>
+		<class is_struct="1"  name="loaded_l10nfile" declfile="intl/loadinfo.h" declline="62" endline="69">
+		</class>
+		<class is_struct="1"  name="mo_file_header" declfile="intl/gettext.h" declline="72" endline="88">
+		</class>
+		<class is_struct="1"  name="loaded_domain" declfile="intl/gettextP.h" declline="179" endline="250">
+		</class>
+		<class is_struct="1"  name="known_translation_t" declfile="intl/dcigettext.c" declline="211" endline="223">
+		</class>
+		<class is_struct="1"  name="block_list" declfile="intl/dcigettext.c" declline="328" endline="342">
+			<memberfunction name="=" declfile="intl/dcigettext.c" declline="321" deffile="intl/dcigettext.c" defline="320" flags="0" prototype=""/>
+		</class>
+		<class is_struct="1"  name="alias_map" declfile="intl/localealias.c" declline="102" endline="106">
+		</class>
+		<class is_struct="1"  name="parse_args" declfile="intl/gettextP.h" declline="111" endline="114">
+		</class>
+		<class is_struct="1"  name="expression" declfile="intl/plural.c" declline="87" endline="88">
+		</class>
+		<class is_struct="1"  name="string_desc" declfile="intl/gettext.h" declline="90" endline="96">
+		</class>
+	</classes>
+	<files>
+		<directory name="intl" mtime="0">
+			<file name="bindtextdom.c" mtime="1017178169"/>
+			<file name="ChangeLog" mtime="1017178169"/>
+			<file name="config.charset" mtime="1017178169"/>
+			<file name="dcgettext.c" mtime="1017178169"/>
+			<file name="dcigettext.c" mtime="1017178169"/>
+			<file name="dcngettext.c" mtime="1017178169"/>
+			<file name="dgettext.c" mtime="1017178169"/>
+			<file name="dngettext.c" mtime="1017178169"/>
+			<file name="explodename.c" mtime="1017178169"/>
+			<file name="finddomain.c" mtime="1017178169"/>
+			<file name="gettext.c" mtime="1017178169"/>
+			<file name="gettext.h" mtime="1017178169"/>
+			<file name="gettextP.h" mtime="1017178169"/>
+			<file name="hash-string.h" mtime="1017178169"/>
+			<file name="intl-compat.c" mtime="1017178169"/>
+			<file name="l10nflist.c" mtime="1017178169"/>
+			<file name="libgettext.h" mtime="1017178169"/>
+			<file name="libgnuintl.h" mtime="1017178169"/>
+			<file name="loadinfo.h" mtime="1017178169"/>
+			<file name="loadmsgcat.c" mtime="1017178169"/>
+			<file name="localcharset.c" mtime="1017178169"/>
+			<file name="locale.alias" mtime="1017178169"/>
+			<file name="localealias.c" mtime="1017178169"/>
+			<file name="Makefile.in" mtime="1017178169"/>
+			<file name="Makefile.in.in" mtime="1017178169"/>
+			<file name="ngettext.c" mtime="1017178169"/>
+			<file name="plural.c" mtime="1017178169"/>
+			<file name="plural.y" mtime="1017178169"/>
+			<file name="ref-add.sin" mtime="1017178169"/>
+			<file name="ref-del.sin" mtime="1017178169"/>
+			<file name="textdomain.c" mtime="1017178169"/>
+			<file name="VERSION" mtime="1017178169"/>
+			<file name="Makefile" mtime="1017219372"/>
+		</directory>
+		<directory name="macros" mtime="0">
+			<file name="ChangeLog" mtime="1017178169"/>
+			<file name="Makefile.am" mtime="1017178169"/>
+			<file name="aclocal-include.m4" mtime="1017178169"/>
+			<file name="autogen.sh" mtime="1017178169"/>
+			<file name="compiler-flags.m4" mtime="1017178169"/>
+			<file name="curses.m4" mtime="1017178169"/>
+			<file name="gnome-bonobo-check.m4" mtime="1017178169"/>
+			<file name="gnome-common.m4" mtime="1017178169"/>
+			<file name="gnome-fileutils.m4" mtime="1017178169"/>
+			<file name="gnome-gettext.m4" mtime="1017178169"/>
+			<file name="gnome-ghttp-check.m4" mtime="1017178169"/>
+			<file name="gnome-gnorba-check.m4" mtime="1017178169"/>
+			<file name="gnome-guile-checks.m4" mtime="1017178169"/>
+			<file name="gnome-libgtop-check.m4" mtime="1017178169"/>
+			<file name="gnome-objc-checks.m4" mtime="1017178169"/>
+			<file name="gnome-orbit-check.m4" mtime="1017178169"/>
+			<file name="gnome-print-check.m4" mtime="1017178169"/>
+			<file name="gnome-pthread-check.m4" mtime="1017178169"/>
+			<file name="gnome-support.m4" mtime="1017178169"/>
+			<file name="gnome-undelfs.m4" mtime="1017178169"/>
+			<file name="gnome-vfs.m4" mtime="1017178169"/>
+			<file name="gnome-x-checks.m4" mtime="1017178169"/>
+			<file name="gnome-xml-check.m4" mtime="1017178169"/>
+			<file name="gnome.m4" mtime="1017178169"/>
+			<file name="linger.m4" mtime="1017178169"/>
+			<file name="need-declaration.m4" mtime="1017178169"/>
+			<file name="Makefile.in" mtime="1017178169"/>
+			<file name="Makefile" mtime="1017219372"/>
+		</directory>
+		<directory name="pixmaps" mtime="0">
+			<file name="look_at_the_stars_icon.png" mtime="1017178170"/>
+			<file name="Makefile.am" mtime="1017178170"/>
+			<file name="Makefile.in" mtime="1017178170"/>
+			<file name="defaultbg.jpg" mtime="1017178170"/>
+			<file name="house.png" mtime="1017178170"/>
+			<file name="i-broken-image.png" mtime="1017178170"/>
+			<file name="loading.png" mtime="1017178170"/>
+			<file name="leftarrow.png" mtime="1017178170"/>
+			<file name="rightarrow.png" mtime="1017178170"/>
+			<file name="i-search-72.png" mtime="1017178170"/>
+			<file name="Makefile" mtime="1017219373"/>
+		</directory>
+		<directory name="po" mtime="0">
+			<file name="ChangeLog" mtime="1017178170"/>
+			<file name="POTFILES.in" mtime="1017191221"/>
+			<file name="Makefile.in.in" mtime="1017178170"/>
+			<file name="look_at_the_stars.pot" mtime="1017178170"/>
+			<file name="Makefile.in" mtime="1017219372"/>
+			<file name="POTFILES" mtime="1017219373"/>
+			<file name="Makefile" mtime="1017219373"/>
+		</directory>
+		<directory name="src" mtime="0">
+			<file name="support.h" mtime="1017909765"/>
+			<file name="support.c" mtime="1017909765"/>
+			<file name="callbacks.h" mtime="1017837087"/>
+			<file name="Makefile.am" mtime="1017822412"/>
+			<file name="Makefile.in" mtime="1017822415"/>
+			<file name="interface.c.bak" mtime="1017178170"/>
+			<file name="interface.h.bak" mtime="1017178170"/>
+			<file name="lookfordirentries.c" mtime="1017178170"/>
+			<file name="gtkentry.c" mtime="1017178170"/>
+			<file name="lookfordirentries.c~" mtime="1017178170"/>
+			<file name="importedfuncs.c" mtime="1017178170"/>
+			<file name="importedfuncs.h" mtime="1017178170"/>
+			<file name="imageview.h" mtime="1017178170"/>
+			<file name="defaultbg.xpm" mtime="1017178170"/>
+			<file name="house.xpm" mtime="1017178170"/>
+			<file name="search.xpm" mtime="1017178170"/>
+			<file name="loading.xpm" mtime="1017178170"/>
+			<file name="toolbars.c" mtime="1017178170"/>
+			<file name="toolbars.h" mtime="1017178170"/>
+			<file name="look_at_the_stars_icon.xpm" mtime="1017178170"/>
+			<file name="stock-zoom-1.xpm" mtime="1017178171"/>
+			<file name="colors.c" mtime="1017178171"/>
+			<file name="colors.h" mtime="1017178171"/>
+			<file name="imagelist.c" mtime="1017178171"/>
+			<file name="imagelist.h" mtime="1017178171"/>
+			<file name="stock-zoom-fit.xpm" mtime="1017178171"/>
+			<file name="vmbutton1.xpm" mtime="1017178171"/>
+			<file name="pixbuf_util.c" mtime="1017178171"/>
+			<file name="pixbuf_util.h" mtime="1017178171"/>
+			<file name="stock-zoom-in.xpm" mtime="1017178171"/>
+			<file name="stock-zoom-out.xpm" mtime="1017178171"/>
+			<file name="vmbutton2.xpm" mtime="1017178171"/>
+			<file name="vmbutton3.xpm" mtime="1017178171"/>
+			<file name="brokenimage.xpm" mtime="1017178171"/>
+			<file name="search.xpm~" mtime="1017178171"/>
+			<file name="callbacks.c" mtime="1017914263"/>
+			<file name="main.c" mtime="1017909937"/>
+			<file name="imageview.c" mtime="1017914002"/>
+			<file name="look_at_the_stars_bg.xpm~" mtime="1017178171"/>
+			<file name="tasks.c~" mtime="1017189945"/>
+			<file name="tasks.h" mtime="1017907185"/>
+			<file name="callbacks.c~" mtime="1017190076"/>
+			<file name="interface.h" mtime="1017909765"/>
+			<file name="interface.o" mtime="1017910148"/>
+			<file name="look_at_the_stars" mtime="1017918147"/>
+			<file name="look_at_the_stars_bg.xpm" mtime="1017178172"/>
+			<file name="pixbuf_util.o" mtime="1017905322"/>
+			<file name="imagelist.o" mtime="1017910160"/>
+			<file name="callbacks.o" mtime="1017914266"/>
+			<file name="support.o" mtime="1017910153"/>
+			<file name="tasks.c" mtime="1017918144"/>
+			<file name="Makefile" mtime="1017822416"/>
+			<file name="toolbars.o" mtime="1017910157"/>
+			<file name="look_at_the_stars_bg-old.xpm" mtime="1017178170"/>
+			<file name="importedfuncs.o" mtime="1017905314"/>
+			<file name="colors.o" mtime="1017910159"/>
+			<file name="imageview.o" mtime="1017914006"/>
+			<file name="tasks.o" mtime="1017918146"/>
+			<file name="interface.c" mtime="1017909765"/>
+			<file name="main.o" mtime="1017910152"/>
+		</directory>
+		<file name="ABOUT-NLS" mtime="1017178168"/>
+		<file name="acconfig.h" mtime="1017178168"/>
+		<file name="aclocal.m4" mtime="1017178168"/>
+		<file name="AUTHORS" mtime="1017178168"/>
+		<file name="autogen.sh" mtime="1017178168"/>
+		<file name="ChangeLog" mtime="1017178168"/>
+		<file name="config.guess" mtime="1017178168"/>
+		<file name="config.h.in" mtime="1017178168"/>
+		<file name="Look_at_the_stars.prj~" mtime="1017178168"/>
+		<file name="config.sub" mtime="1017178168"/>
+		<file name="configure" mtime="1017178168"/>
+		<file name="configure.in" mtime="1017178168"/>
+		<file name="COPYING" mtime="1017178168"/>
+		<file name="INSTALL" mtime="1017178168"/>
+		<file name="install-sh" mtime="1017178168"/>
+		<file name="look_at_the_stars.desktop.in" mtime="1017178169"/>
+		<file name="look_at_the_stars.glade~" mtime="1017178169"/>
+		<file name="look_at_the_stars.glade.bak" mtime="1017909761"/>
+		<file name="look_at_the_stars.glade-old" mtime="1017178169"/>
+		<file name="Look_at_the_stars.prj.bak" mtime="1017191221"/>
+		<file name="Look_at_the_stars.pws" mtime="1017190627"/>
+		<file name="Makefile.am" mtime="1017178169"/>
+		<file name="Makefile.in" mtime="1017178169"/>
+		<file name="missing" mtime="1017178169"/>
+		<file name="mkinstalldirs" mtime="1017178169"/>
+		<file name="NEWS" mtime="1017178169"/>
+		<file name="README" mtime="1017178170"/>
+		<file name="stamp-h.in" mtime="1017178175"/>
+		<file name="strings.tbl" mtime="1017909765"/>
+		<file name="TODO" mtime="1017178175"/>
+		<file name="Look_at_the_stars.pws~" mtime="1017178175"/>
+		<file name="config.status~" mtime="1017178175"/>
+		<file name="tm.tags" mtime="1017178175"/>
+		<file name="tags.cache" mtime="1017918162"/>
+		<file name="config.log" mtime="1017219370"/>
+		<file name="config.cache" mtime="1017219371"/>
+		<file name="config.status" mtime="1017219371"/>
+		<file name="Makefile" mtime="1017219372"/>
+		<file name="look_at_the_stars.desktop" mtime="1017219373"/>
+		<file name="config.h" mtime="1017219373"/>
+		<file name="stamp-h" mtime="1017219373"/>
+		<file name="Look_at_the_stars.prj" mtime="1017822411"/>
+		<file name="look_at_the_stars.glade" mtime="1017909765"/>
+	</files>
+</ccproject>
