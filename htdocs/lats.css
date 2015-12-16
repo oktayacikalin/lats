@@ -1,0 +1,297 @@
+body {
+	font-family : arial,sans-serif,helvetica;
+}
+
+small {
+	font-size : 90%;
+}
+
+a {
+	color : #486591;
+	text-decoration : none;
+}
+
+a:hover, a:active {
+	text-decoration : underline;
+}
+
+img {
+	border : 0;
+}
+
+input, textarea {
+	background-color : #ffffff;
+	border : 1px #888888 solid;
+	color : #000000;
+	padding : 2px;
+	font-size : 90%;
+	font-family : Verdana,Lucida,sans-serif;
+}
+
+select {
+	background-color : #cccccc;
+}
+
+input[type="submit"] {
+	background-color : #cccccc;
+	border : 1px #888888 outset;
+	color : #000000;
+	margin : 2px;
+	font-weight : bold;
+}
+
+input[type="submit"]:hover {
+	color : #486591;
+}
+
+input[type="text"], input[type="password"], textarea {
+	background-color : #eeeeee;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
+	background-color : #ffffff;
+}
+
+.sidebar-left {
+	border-right : 2px dotted #cccccc;
+	width : 150px;
+	vertical-align : top;
+}
+
+.sidebar-right {
+	border-left : 2px dotted #cccccc;
+	width : 150px;
+}
+
+td.section-title {
+	border-bottom : 1px solid #bbbbbb;
+	font-size : 120%;
+	font-weight : bold;
+}
+
+.subsection-title {
+	margin-left : 25px;
+}
+
+.subsection-title a {
+	color : #000000;
+	font-size : 110%;
+	font-weight : bold;
+}
+
+.subsection-title a:hover {
+	color : #486591;
+}
+
+.subsection-description {
+	margin-left : 45px;
+}
+
+.section-description {
+	text-align : justify;
+}
+
+.section-links {
+	margin-left : 25px;
+	margin-top : 10px;
+}
+
+.section-links a {
+	font-size : 95%;
+	font-weight : bold;
+	text-decoration : underline;
+}
+
+.topbar table {
+  background-color : #809aba;
+	border-top : 1px solid #000000;
+	border-bottom : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.topbar th {
+	text-align : center;
+}  
+
+.topbar a {
+	color : #ffffff;
+	font-weight : bold;
+}
+
+.footbar {
+	float : left;
+}
+
+.footbar table {
+	background-color : #809aba;
+	border-top : 1px solid #000000;
+	border-bottom : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.footbar td {
+	color : #ffffff;
+	font-size : 80%;
+}
+
+.footbar a {
+	color : #ffffff;
+	text-decoration : underline;
+}
+
+.menutitle-level1 table {
+  background-color : #809aba;
+	border : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.menutitle-level1 td {
+	text-align : center;
+	color : #ffffff;
+	font-weight : bold;
+}  
+
+.menutitle-level1 a {
+	color : #ffffff;
+	font-weight : bold;
+}
+
+.menutitle-level2 table {
+  background-color : #99aec7;
+	border : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.menutitle-level2 td {
+	text-align : center;
+	color : #ffffff;
+	font-weight : bold;
+}  
+
+.menutitle-level2 a {
+	color : #ffffff;
+	font-weight : bold;
+}
+
+.menutitle-level3 table {
+  background-color : #b2c2d5;
+	border : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.menutitle-level3 td {
+	text-align : center;
+	color : #ffffff;
+	font-weight : bold;
+}  
+
+.menutitle-level3 a {
+	color : #ffffff;
+	font-weight : bold;
+}
+
+.menucontent table {
+  background-color : #ffffff;
+	border : 0px;
+	border-spacing : 2px;
+}
+
+.menucontent td {
+	text-align : left;
+	color : #000000;
+	font-weight : normal;
+}  
+
+.menucontent a {
+	color : #000000;
+}
+
+.menucontent a:hover {
+	color : #486591;
+}
+
+.more {
+	font-size : 90%;
+	text-align : right;
+}
+
+.more a {
+	color : #b75a3e;
+	font-weight : bold;
+}
+
+.titlebar table {
+  background-color : #ffffff;
+	border-bottom : 1px solid #000000;
+	border-spacing : 0px;
+}
+
+.titlebar td {
+	padding : 0px;
+}
+
+.main-titlebar {
+	color : #ffffff;
+	text-align : center;
+	font-size : 400%;
+	font-weight : bold;
+	background : #97adc6 url("jalix-grey.png") no-repeat top right;
+}
+
+.title1 {
+	font-size : 140%;
+	font-weight : bold;
+}
+
+.title2 {
+	font-size : 120%;
+	font-weight : bold;
+}
+
+.text {
+	font-size : 100%;
+	text-align : justify;
+}
+
+a.NO-UN:link, a.NO-UN:visited, a.NO-UN:active {
+	text-decoration : none
+}
+
+a.NO-UN:hover {
+	text-decoration : underline;
+}
+
+a.BLUE:link, a.BLUE:visited, a.BLUE:active {
+	color : #486591;
+}
+
+a.BLUE:hover {
+	color : #486591;
+	text-decoration : underline;
+}
+
+a.RED-NO-UN:link, a.RED-NO-UN:visited, a.RED-NO-UN:active {
+	color : #b75a3e;
+	text-decoration : none;
+}
+
+a.RED-NO-UN:hover {
+	color : #b75a3e;
+	text-decoration : underline;
+}
+
+a.BLUE-NO-UN:link, a.BLUE-NO-UN:active {
+	color : #486591;
+	text-decoration : none
+}
+
+a.BLUE-NO-UN:visited {
+	color : #615b87;
+	text-decoration : none;
+}
+
+a.BLUE-NO-UN:hover {
+	color : #486591;
+	text-decoration : underline;
+}
+
